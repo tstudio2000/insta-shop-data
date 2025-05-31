@@ -1,9 +1,16 @@
 [
   {
     "email": "admin",
-    "password": "MTIzNDU=", 
+    "password": "MTIzNDU=",
     "name": "Главный Админ",
     "role": "admin",
+    "workLogs": []
+  },
+  {
+    "email": "aboltus",
+    "password": "MQ==",
+    "name": "nige",
+    "role": "employee",
     "workLogs": []
   }
 ]
