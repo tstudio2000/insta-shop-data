@@ -2,6 +2,13 @@
   {
     "nickname": "user123",
     "code": "ABC001",
-    "orders": ["order001"]
+    "orders": [
+      "order001"
+    ]
+  },
+  {
+    "nickname": "abobus",
+    "code": "123",
+    "orders": []
   }
 ]
