@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "email": "admin@test.com",
+    "password": "YWRtaW4xMjM=",  // Пароль "admin123" в base64 (пока простое хеширование)
+    "name": "Главный Админ",
+    "role": "admin",
+    "workLogs": []
+  }
+]
