@@ -1,16 +1,30 @@
 [
   {
+    "id": "1",
     "email": "admin",
-    "password": "1234",
+    "password": "1",
     "name": "Главный Админ",
     "role": "admin",
-    "workLogs": []
+    "salary": 50000,
+    "workHours": { "start": "09:00", "end": "18:00" },
+    "stats": {
+      "clientsServed": 24,
+      "productsSold": 56,
+      "lastLogin": "2024-03-15T14:30:00Z"
+    }
   },
   {
-    "email": "aboltus",
+    "id": "2",
+    "email": "empl",
     "password": "1",
-    "name": "nige",
+    "name": "Иван Петров",
     "role": "employee",
-    "workLogs": []
+    "salary": 30000,
+    "workHours": { "start": "10:00", "end": "19:00" },
+    "stats": {
+      "clientsServed": 12,
+      "productsSold": 34,
+      "lastLogin": "2024-03-15T12:15:00Z"
+    }
   }
 ]
