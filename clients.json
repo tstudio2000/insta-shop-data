@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "nickname": "user123",
+    "code": "ABC001",
+    "orders": ["order001"]
+  }
+]
