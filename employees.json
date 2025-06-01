@@ -33,8 +33,8 @@
   },
   {
     "name": "123",
-    "username": "asdasd",
-    "password": "12",
+    "username": "sup",
+    "password": "1",
     "salary": 30000,
     "schedule": {
       "workDays": [
@@ -61,6 +61,7 @@
       "clientsServed": 0,
       "productsSold": 0,
       "lastLogin": null
-    }
+    },
+    "newPassword": "1"
   }
 ]
