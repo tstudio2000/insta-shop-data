@@ -1,16 +1,37 @@
 [
   {
     "id": "1",
-    "username": "admin", 
+    "username": "admin",
     "password": "1",
     "name": "Главный Админ",
     "role": "admin",
     "salary": 50000,
-    "workHours": { "start": "09:00", "end": "18:00" },
+    "workHours": {
+      "start": "09:00",
+      "end": "18:00"
+    },
     "stats": {
       "clientsServed": 24,
       "productsSold": 56,
       "lastLogin": "2024-03-15T14:30:00Z"
+    }
+  },
+  {
+    "name": "Aboltus abb",
+    "email": "",
+    "password": "1",
+    "salary": "30001",
+    "username": "popa",
+    "id": "1748759066701",
+    "role": "employee",
+    "workHours": {
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
     }
   }
 ]
