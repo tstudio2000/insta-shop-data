@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "username": "admin",  // Заменяем email на username
-    "password": "YWRtaW4xMjM=",
+    "username": "admin", 
+    "password": "1",
     "name": "Главный Админ",
     "role": "admin",
     "salary": 50000,
