@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "prod_1748797917021",
+    "name": "ABA",
+    "price": 99900000,
+    "stock": 100,
+    "image": "https://static.wikia.nocookie.net/naruto/images/f/f6/Fu.png/revision/latest?cb=20220205122040"
+  }
+]
