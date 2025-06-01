@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "prod_1748798024274",
+    "name": "asdsa",
+    "price": 23,
+    "stock": 123,
+    "image": "https://static.wikia.nocookie.net/naruto/images/f/f6/Fu.png/revision/latest?cb=20220205122040"
+  }
+]
