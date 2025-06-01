@@ -17,10 +17,10 @@
     }
   },
   {
-    "name": "bobobus",
+    "name": "CESA",
     "email": "a",
     "password": "1",
-    "salary": "1",
+    "salary": "10",
     "id": "1748755580748",
     "role": "employee",
     "workHours": {
