@@ -15,5 +15,22 @@
       "productsSold": 56,
       "lastLogin": "2024-03-15T14:30:00Z"
     }
+  },
+  {
+    "name": "bobobus",
+    "email": "a",
+    "password": "1",
+    "salary": "1",
+    "id": "1748755580748",
+    "role": "employee",
+    "workHours": {
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
