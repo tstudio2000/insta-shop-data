@@ -49,5 +49,22 @@
       "productsSold": 0,
       "lastLogin": null
     }
+  },
+  {
+    "name": "Chel",
+    "email": "112",
+    "password": "1",
+    "salary": 30000,
+    "id": "1748757090597",
+    "role": "employee",
+    "workHours": {
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
