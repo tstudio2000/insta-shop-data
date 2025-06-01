@@ -38,16 +38,15 @@
     "salary": "300002",
     "schedule": {
       "workDays": [
-        "mon",
         "tue",
         "wed",
         "thu",
-        "fri"
+        "fri",
+        "sun",
+        "mon",
+        "sat"
       ],
-      "restDays": [
-        "sat",
-        "sun"
-      ],
+      "restDays": [],
       "dailyHours": {
         "start": "09:00",
         "end": "18:00",
