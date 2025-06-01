@@ -32,5 +32,22 @@
       "productsSold": 0,
       "lastLogin": null
     }
+  },
+  {
+    "name": "1",
+    "email": "1",
+    "password": "1",
+    "salary": "2",
+    "id": "1748755924349",
+    "role": "employee",
+    "workHours": {
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
