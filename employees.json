@@ -33,23 +33,5 @@
       "productsSold": 0,
       "lastLogin": null
     }
-  },
-  {
-    "name": "ABOBA",
-    "email": "",
-    "password": "1",
-    "salary": 30000,
-    "username": "sos",
-    "id": "1748759111082",
-    "role": "employee",
-    "workHours": {
-      "start": "09:00",
-      "end": "18:00"
-    },
-    "stats": {
-      "clientsServed": 0,
-      "productsSold": 0,
-      "lastLogin": null
-    }
   }
 ]
