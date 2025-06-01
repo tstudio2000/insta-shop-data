@@ -32,33 +32,6 @@
     }
   },
   {
-    "id": "2",
-    "username": "bob",
-    "schedule": {
-      "workDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri"
-      ],
-      "restDays": [
-        "sat",
-        "sun"
-      ],
-      "dailyHours": {
-        "start": "09:00",
-        "end": "18:00",
-        "breakStart": "13:00",
-        "breakEnd": "14:00"
-      }
-    },
-    "newPassword": "1",
-    "name": "abobus",
-    "salary": "10",
-    "password": "1"
-  },
-  {
     "name": "POPA",
     "username": "pop",
     "password": "1",
