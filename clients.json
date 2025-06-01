@@ -1,14 +1,25 @@
 [
   {
-    "nickname": "user123",
-    "code": "ABC001",
+    "id": "cl_001",
+    "nickname": "super_client",
+    "code": "X7F9K2",
     "orders": [
-      "order001"
-    ]
-  },
-  {
-    "nickname": "abobus",
-    "code": "123",
-    "orders": []
+      {
+        "id": "ord_001",
+        "date": "2024-03-20T14:30:00Z",
+        "products": [
+          {
+            "name": "Футболка",
+            "quantity": 2,
+            "price": 1500
+          }
+        ],
+        "location": "Москва, ТЦ Авиапарк",
+        "employee": "ivan_2024" // Кто добавил заказ
+      }
+    ],
+    "totalSpent": 3000,
+    "firstOrderDate": "2024-03-20T14:30:00Z",
+    "lastOrderDate": "2024-03-20T14:30:00Z"
   }
 ]
