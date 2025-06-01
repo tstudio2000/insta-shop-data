@@ -17,22 +17,66 @@
     }
   },
   {
-  "id": "1",
-  "username": "employee2",
-  "password": "1",
-  "name": "Анна Сидорова",
-  "role": "employee",
-  "salary": 35000,
-  "schedule": {
-    "workDays": ["mon", "tue", "wed", "thu", "fri"],
-    "restDays": ["sat", "sun"],
-    "dailyHours": {
-      "start": "10:00",
-      "end": "19:00",
-      "breakStart": "13:00",
-      "breakEnd": "14:00"
-    }
+    "id": "1",
+    "username": "employee2",
+    "password": "1",
+    "name": "Анна Сидорова",
+    "role": "employee",
+    "salary": 35000,
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "restDays": [
+        "sat",
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "stats": {}
   },
-  "stats": {}
-}
+  {
+    "name": "GASTERBYTEER",
+    "username": "bub",
+    "password": "1",
+    "salary": "10000000",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat",
+        "sun"
+      ],
+      "restDays": [],
+      "dailyHours": {
+        "start": "08:00",
+        "end": "23:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "id": "1748761528844",
+    "role": "employee",
+    "workHours": {
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
+  }
 ]
