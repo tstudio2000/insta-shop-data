@@ -32,7 +32,7 @@
     }
   },
   {
-    "name": "POPA",
+    "name": "POPi",
     "username": "pop",
     "password": "1",
     "salary": "300002",
@@ -62,7 +62,7 @@
       "productsSold": 0,
       "lastLogin": null
     },
-    "newPassword": "1"
+    "newPassword": ""
   },
   {
     "name": "123",
