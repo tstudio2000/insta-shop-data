@@ -1,70 +1,16 @@
 [
   {
     "id": "1",
-    "email": "admin",
-    "password": "1",
+    "username": "admin",  // Заменяем email на username
+    "password": "YWRtaW4xMjM=",
     "name": "Главный Админ",
     "role": "admin",
     "salary": 50000,
-    "workHours": {
-      "start": "09:00",
-      "end": "18:00"
-    },
+    "workHours": { "start": "09:00", "end": "18:00" },
     "stats": {
       "clientsServed": 24,
       "productsSold": 56,
       "lastLogin": "2024-03-15T14:30:00Z"
-    }
-  },
-  {
-    "name": "CESA",
-    "email": "a",
-    "password": "1",
-    "salary": "10",
-    "id": "1748755580748",
-    "role": "employee",
-    "workHours": {
-      "start": "09:00",
-      "end": "18:00"
-    },
-    "stats": {
-      "clientsServed": 0,
-      "productsSold": 0,
-      "lastLogin": null
-    }
-  },
-  {
-    "name": "1",
-    "email": "1",
-    "password": "1",
-    "salary": "2",
-    "id": "1748755924349",
-    "role": "employee",
-    "workHours": {
-      "start": "09:00",
-      "end": "18:00"
-    },
-    "stats": {
-      "clientsServed": 0,
-      "productsSold": 0,
-      "lastLogin": null
-    }
-  },
-  {
-    "name": "Chel",
-    "email": "112",
-    "password": "1",
-    "salary": 30000,
-    "id": "1748757090597",
-    "role": "employee",
-    "workHours": {
-      "start": "09:00",
-      "end": "18:00"
-    },
-    "stats": {
-      "clientsServed": 0,
-      "productsSold": 0,
-      "lastLogin": null
     }
   }
 ]
