@@ -24,13 +24,13 @@
   "role": "employee",
   "salary": 35000,
   "schedule": {
-    "workDays": ["mon", "tue", "wed", "thu", "fri"], // Рабочие дни
-    "restDays": ["sat", "sun"], // Выходные
+    "workDays": ["mon", "tue", "wed", "thu", "fri"],
+    "restDays": ["sat", "sun"],
     "dailyHours": {
       "start": "10:00",
       "end": "19:00",
-      "breakStart": "13:00", // Начало обеда
-      "breakEnd": "14:00"   // Конец обеда
+      "breakStart": "13:00",
+      "breakEnd": "14:00"
     }
   },
   "stats": {...}
