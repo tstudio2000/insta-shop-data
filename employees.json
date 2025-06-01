@@ -17,7 +17,7 @@
     "id": "2",
     "email": "empl",
     "password": "1",
-    "name": "Иван Петров",
+    "name": "Abobus",
     "role": "employee",
     "salary": 30000,
     "workHours": { "start": "10:00", "end": "19:00" },
