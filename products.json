@@ -5,5 +5,12 @@
     "price": 20000,
     "stock": 3,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1748975576790_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
+  },
+  {
+    "id": "prod_1748976105428",
+    "name": "ХЕНТ",
+    "price": 7654,
+    "stock": 152,
+    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1748976103920_43r34r3.PNG"
   }
 ]
