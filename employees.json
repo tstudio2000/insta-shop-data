@@ -35,7 +35,7 @@
     "name": "aboba",
     "username": "sup",
     "password": "1",
-    "salary": 30000,
+    "salary": "3000000",
     "schedule": {
       "workDays": [
         "mon",
@@ -61,6 +61,7 @@
       "clientsServed": 0,
       "productsSold": 0,
       "lastLogin": null
-    }
+    },
+    "newPassword": ""
   }
 ]
