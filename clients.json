@@ -1,25 +1,28 @@
 [
   {
-    "id": "cl_001",
-    "nickname": "super_client",
-    "code": "X7F9K2",
+    "id": "client_1748979656831",
+    "nickname": "a2123",
+    "code": "123",
     "orders": [
       {
-        "id": "ord_001",
-        "date": "2024-03-20T14:30:00Z",
+        "id": "order_1748979656831",
+        "date": "2025-06-03T19:40",
         "products": [
           {
-            "name": "Футболка",
-            "quantity": 2,
-            "price": 1500
+            "productId": "prod_1748975578550",
+            "quantity": 1
+          },
+          {
+            "productId": "prod_1748979334404",
+            "quantity": 10
           }
         ],
-        "location": "Москва, ТЦ Авиапарк",
-        "employee": "ivan_2024" // Кто добавил заказ
+        "totalAmount": 1.2e+26,
+        "employeeId": null
       }
     ],
-    "totalSpent": 3000,
-    "firstOrderDate": "2024-03-20T14:30:00Z",
-    "lastOrderDate": "2024-03-20T14:30:00Z"
+    "totalSpent": 1.2e+26,
+    "firstOrderDate": "2025-06-03T19:40",
+    "lastOrderDate": "2025-06-03T19:40"
   }
 ]
