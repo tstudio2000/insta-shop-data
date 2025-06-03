@@ -5,5 +5,12 @@
     "price": 20000,
     "stock": 3,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1748975576790_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
+  },
+  {
+    "id": "prod_1748979334404",
+    "name": "CAMER",
+    "price": 1.2e+25,
+    "stock": 103,
+    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1748979333356_png-transparent-camera-icon-camera-electronics-rectangle-square-thumbnail.png"
   }
 ]
