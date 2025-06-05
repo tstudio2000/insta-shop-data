@@ -123,5 +123,30 @@
     "totalSpent": 2000,
     "firstOrderDate": "2025-06-05T21:01",
     "lastOrderDate": "2025-06-05T21:01"
+  },
+  {
+    "id": "client_1749157677210",
+    "nickname": "asd23e2ewq",
+    "code": "sad12",
+    "orders": [
+      {
+        "id": "order_1749157677210",
+        "date": "2025-06-05T21:07",
+        "products": [
+          {
+            "productId": "prod_1748975578550",
+            "quantity": 1,
+            "productName": "aboba",
+            "productPrice": 2000,
+            "totalPrice": 2000
+          }
+        ],
+        "totalAmount": 2000,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 2000,
+    "firstOrderDate": "2025-06-05T21:07",
+    "lastOrderDate": "2025-06-05T21:07"
   }
 ]
