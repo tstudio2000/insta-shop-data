@@ -62,5 +62,30 @@
     "totalSpent": 1240000,
     "firstOrderDate": "2025-06-05T16:34",
     "lastOrderDate": "2025-06-05T16:34"
+  },
+  {
+    "id": "client_1749131459647",
+    "nickname": "Bologna ",
+    "code": "Asioouw",
+    "orders": [
+      {
+        "id": "order_1749131459647",
+        "date": "2025-06-05T17:50",
+        "products": [
+          {
+            "productId": "prod_1748975578550",
+            "quantity": 12,
+            "productName": "aboba",
+            "productPrice": 2000,
+            "totalPrice": 24000
+          }
+        ],
+        "totalAmount": 24000,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 24000,
+    "firstOrderDate": "2025-06-05T17:50",
+    "lastOrderDate": "2025-06-05T17:50"
   }
 ]
