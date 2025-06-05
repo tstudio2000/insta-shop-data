@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "client_1749156143371",
+    "nickname": "asdasd",
+    "code": "13124",
+    "orders": [
+      {
+        "id": "order_1749156143371",
+        "date": "2025-06-05T20:42",
+        "products": [
+          {
+            "productId": "prod_1748975578550",
+            "quantity": 1,
+            "productName": "aboba",
+            "productPrice": 2000,
+            "totalPrice": 2000
+          }
+        ],
+        "totalAmount": 2000,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 2000,
+    "firstOrderDate": "2025-06-05T20:42",
+    "lastOrderDate": "2025-06-05T20:42"
+  }
+]
