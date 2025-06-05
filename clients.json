@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "client_1749110580441",
+    "nickname": "asdad",
+    "code": "5123123",
+    "orders": [
+      {
+        "id": "order_1749110580441",
+        "date": "2025-06-05T08:02",
+        "products": [
+          {
+            "productId": "prod_1748975578550",
+            "quantity": 1
+          },
+          {
+            "productId": "prod_1748979334404",
+            "quantity": 5
+          },
+          {
+            "productId": "prod_1748979334404",
+            "quantity": 1
+          }
+        ],
+        "totalAmount": 722000,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 722000,
+    "firstOrderDate": "2025-06-05T08:02",
+    "lastOrderDate": "2025-06-05T08:02"
+  }
+]
