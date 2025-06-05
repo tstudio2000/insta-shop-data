@@ -30,5 +30,37 @@
     "totalSpent": 246000,
     "firstOrderDate": "2025-06-05T13:22",
     "lastOrderDate": "2025-06-05T13:22"
+  },
+  {
+    "id": "client_1749119717958",
+    "nickname": "Aahjaja",
+    "code": "2666",
+    "orders": [
+      {
+        "id": "order_1749119717958",
+        "date": "2025-06-05T16:34",
+        "products": [
+          {
+            "productId": "prod_1748979334404",
+            "quantity": 10,
+            "productName": "CAMER",
+            "productPrice": 120000,
+            "totalPrice": 1200000
+          },
+          {
+            "productId": "prod_1748975578550",
+            "quantity": 20,
+            "productName": "aboba",
+            "productPrice": 2000,
+            "totalPrice": 40000
+          }
+        ],
+        "totalAmount": 1240000,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 1240000,
+    "firstOrderDate": "2025-06-05T16:34",
+    "lastOrderDate": "2025-06-05T16:34"
   }
 ]
