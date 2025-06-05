@@ -23,5 +23,30 @@
     "totalSpent": 9999999999,
     "firstOrderDate": "2025-06-05T22:05",
     "lastOrderDate": "2025-06-05T22:05"
+  },
+  {
+    "id": "client_1749161180702",
+    "nickname": "Mijoz",
+    "code": "Kod05",
+    "orders": [
+      {
+        "id": "order_1749161180702",
+        "date": "2025-06-05T22:05",
+        "products": [
+          {
+            "productId": "prod_1749160908334",
+            "quantity": 10,
+            "productName": "TSQr",
+            "productPrice": 120000,
+            "totalPrice": 1200000
+          }
+        ],
+        "totalAmount": 1200000,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 1200000,
+    "firstOrderDate": "2025-06-05T22:05",
+    "lastOrderDate": "2025-06-05T22:05"
   }
 ]
