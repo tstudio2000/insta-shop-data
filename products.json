@@ -12,5 +12,12 @@
     "price": 120000,
     "stock": 80,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1748979333356_png-transparent-camera-icon-camera-electronics-rectangle-square-thumbnail.png"
+  },
+  {
+    "id": "prod_1749138951483",
+    "name": "Ts",
+    "price": 10000000000000000,
+    "stock": 1,
+    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749138949770_IMG_17459057865547328.jpg"
   }
 ]
