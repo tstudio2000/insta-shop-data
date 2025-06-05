@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "client_1749161149562",
+    "nickname": "mijoz123",
+    "code": "kod",
+    "orders": [
+      {
+        "id": "order_1749161149562",
+        "date": "2025-06-05T22:05",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "TS",
+            "productPrice": 9999999999,
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-05T22:05",
+    "lastOrderDate": "2025-06-05T22:05"
+  }
+]
