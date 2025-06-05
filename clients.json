@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "client_1749111496181",
+    "nickname": "СУА",
+    "code": "123123",
+    "orders": [
+      {
+        "id": "order_1749111496182",
+        "date": "2025-06-05T13:22",
+        "products": [
+          {
+            "productId": "prod_1748975578550",
+            "quantity": 3,
+            "productName": "aboba",
+            "productPrice": 2000,
+            "totalPrice": 6000
+          },
+          {
+            "productId": "prod_1748979334404",
+            "quantity": 2,
+            "productName": "CAMER",
+            "productPrice": 120000,
+            "totalPrice": 240000
+          }
+        ],
+        "totalAmount": 246000,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 246000,
+    "firstOrderDate": "2025-06-05T13:22",
+    "lastOrderDate": "2025-06-05T13:22"
+  }
+]
