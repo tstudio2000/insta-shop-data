@@ -87,5 +87,37 @@
     "totalSpent": 24000,
     "firstOrderDate": "2025-06-05T17:50",
     "lastOrderDate": "2025-06-05T17:50"
+  },
+  {
+    "id": "client_1749139218909",
+    "nickname": "Hsjsussiwooqajnasnbxxjciyxysgqfqcqvahsjdu",
+    "code": "164837661541446272763535525252",
+    "orders": [
+      {
+        "id": "order_1749139218909",
+        "date": "2025-06-05T15:57",
+        "products": [
+          {
+            "productId": "prod_1748975578550",
+            "quantity": 1,
+            "productName": "aboba",
+            "productPrice": 2000,
+            "totalPrice": 2000
+          },
+          {
+            "productId": "prod_1749138951483",
+            "quantity": 1,
+            "productName": "Ts",
+            "productPrice": 10000000000000000,
+            "totalPrice": 10000000000000000
+          }
+        ],
+        "totalAmount": 10000000000002000,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 10000000000002000,
+    "firstOrderDate": "2025-06-05T15:57",
+    "lastOrderDate": "2025-06-05T15:57"
   }
 ]
