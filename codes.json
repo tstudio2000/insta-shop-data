@@ -1,13 +1,5 @@
 [
   {
-    "id": "code_1749233615597",
-    "value": "50-07",
-    "description": "Заказ",
-    "isUsed": true,
-    "createdAt": "2025-06-06T18:13:35.597Z",
-    "usedAt": "2025-06-06T18:19:12.404Z"
-  },
-  {
     "id": "code_1749233632054",
     "value": "47-07",
     "description": "Заклад",
@@ -21,14 +13,6 @@
     "description": "Заказ",
     "isUsed": false,
     "createdAt": "2025-06-06T18:14:20.460Z",
-    "usedAt": null
-  },
-  {
-    "id": "code_1749233661766",
-    "value": "",
-    "description": "",
-    "isUsed": false,
-    "createdAt": "2025-06-06T18:14:21.766Z",
     "usedAt": null
   }
 ]
