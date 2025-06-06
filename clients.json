@@ -73,5 +73,30 @@
     "totalSpent": 119999999988,
     "firstOrderDate": "2025-06-06T07:03",
     "lastOrderDate": "2025-06-06T07:03"
+  },
+  {
+    "id": "client_1749194307949",
+    "nickname": "Mijoz",
+    "code": "Tes",
+    "orders": [
+      {
+        "id": "order_1749194307949",
+        "date": "2025-06-06T07:15",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "TS",
+            "productPrice": 9999999999,
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-06T07:15",
+    "lastOrderDate": "2025-06-06T07:15"
   }
 ]
