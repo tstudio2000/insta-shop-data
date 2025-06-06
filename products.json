@@ -12,12 +12,5 @@
     "price": 120000,
     "stock": 5,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg"
-  },
-  {
-    "id": "prod_1749192876749",
-    "name": "Mahsulot",
-    "price": 12000,
-    "stock": 12,
-    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749192874995_IMG_17459057865547328.jpg"
   }
 ]
