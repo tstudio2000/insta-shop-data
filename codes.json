@@ -1,10 +1,10 @@
 [
   {
-    "id": "code_1749215731698",
-    "value": "50-20",
+    "id": "code_1749217379933",
+    "value": "10-50",
     "description": "",
-    "isUsed": true,
-    "createdAt": "2025-06-06T13:15:31.698Z",
-    "usedAt": "2025-06-06T13:26:15.969Z"
+    "isUsed": false,
+    "createdAt": "2025-06-06T13:42:59.933Z",
+    "usedAt": null
   }
 ]
