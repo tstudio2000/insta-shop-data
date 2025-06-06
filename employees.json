@@ -62,5 +62,37 @@
       "productsSold": 0,
       "lastLogin": null
     }
+  },
+  {
+    "name": "Hodimni ismi",
+    "username": "hodim098",
+    "password": "1",
+    "salary": "3500000",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat"
+      ],
+      "restDays": [
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "id": "1749192824579",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
