@@ -40,5 +40,47 @@
     "totalSpent": 9999999999,
     "firstOrderDate": "2025-06-06T13:16",
     "lastOrderDate": "2025-06-06T13:16"
+  },
+  {
+    "id": "client_1749216373517",
+    "nickname": "654",
+    "code": "50-20",
+    "orders": [
+      {
+        "id": "order_1749216373517",
+        "date": "2025-06-06T13:24",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeId": null,
+        "paymentInfo": {
+          "prepayment": {
+            "amount": 6124,
+            "date": "2025-06-06T13:24"
+          },
+          "fullPayment": {
+            "amount": 788765456789098800,
+            "date": "2025-06-06T18:25"
+          }
+        },
+        "deliveryInfo": {
+          "address": "Ташкент",
+          "scheduledTime": "2025-06-06T18:25",
+          "actualTime": "2025-06-06T18:26"
+        },
+        "review": "0005219",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-06T13:24",
+    "lastOrderDate": "2025-06-06T13:24"
   }
 ]
