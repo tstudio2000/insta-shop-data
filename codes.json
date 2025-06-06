@@ -3,9 +3,9 @@
     "id": "code_1749233615597",
     "value": "50-07",
     "description": "Заказ",
-    "isUsed": false,
+    "isUsed": true,
     "createdAt": "2025-06-06T18:13:35.597Z",
-    "usedAt": null
+    "usedAt": "2025-06-06T18:19:12.404Z"
   },
   {
     "id": "code_1749233632054",
