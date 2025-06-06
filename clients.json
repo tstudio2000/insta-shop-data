@@ -98,5 +98,30 @@
     "totalSpent": 9999999999,
     "firstOrderDate": "2025-06-06T07:15",
     "lastOrderDate": "2025-06-06T07:15"
+  },
+  {
+    "id": "client_1749194919518",
+    "nickname": "Alhamdulillah",
+    "code": "50-06",
+    "orders": [
+      {
+        "id": "order_1749194919518",
+        "date": "2025-06-06T12:00",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-06T12:00",
+    "lastOrderDate": "2025-06-06T12:00"
   }
 ]
