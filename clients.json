@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "client_1749215973467",
+    "nickname": "mijoz1020",
+    "code": "30-50",
+    "orders": [
+      {
+        "id": "order_1749215973467",
+        "date": "2025-06-06T13:16",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeId": null,
+        "paymentInfo": {
+          "prepayment": {
+            "amount": 909976,
+            "date": "2025-06-06T13:16"
+          },
+          "fullPayment": {
+            "amount": 100000000000,
+            "date": "2025-06-06T18:17"
+          }
+        },
+        "deliveryInfo": {
+          "address": "Tashkent",
+          "scheduledTime": "2025-06-07T18:18",
+          "actualTime": "2025-06-07T18:18"
+        },
+        "review": "Рахмат хамманарса яхши",
+        "status": "Оплачено полностью"
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-06T13:16",
+    "lastOrderDate": "2025-06-06T13:16"
+  }
+]
