@@ -48,5 +48,48 @@
     "totalSpent": 10000000499,
     "firstOrderDate": "2025-06-06T11:05",
     "lastOrderDate": "2025-06-06T11:05"
+  },
+  {
+    "id": "client_1749213144731",
+    "nickname": "103s",
+    "code": "20-50",
+    "phone": "51241",
+    "orders": [
+      {
+        "id": "order_1749213144731",
+        "date": "2025-06-06T12:30",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeId": null,
+        "paymentInfo": {
+          "prepayment": {
+            "amount": 9999999,
+            "date": "2025-06-06T12:30"
+          },
+          "fullPayment": {
+            "amount": 2e+24,
+            "date": "2025-06-06T17:31"
+          }
+        },
+        "deliveryInfo": {
+          "address": "Ташкент",
+          "scheduledTime": "2025-06-07T17:32",
+          "actualTime": "2025-06-08T17:32"
+        },
+        "review": "Нормально",
+        "status": "Оплачено полностью"
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-06T12:30",
+    "lastOrderDate": "2025-06-06T12:30"
   }
 ]
