@@ -123,5 +123,37 @@
     "totalSpent": 9999999999,
     "firstOrderDate": "2025-06-06T12:00",
     "lastOrderDate": "2025-06-06T12:00"
+  },
+  {
+    "id": "client_1749206515825",
+    "nickname": "okasjdoasid",
+    "code": "105900",
+    "orders": [
+      {
+        "id": "order_1749206515825",
+        "date": "2025-06-06T10:41",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "totalPrice": 9999999999
+          },
+          {
+            "productId": "prod_1749160908334",
+            "quantity": 1,
+            "productName": "2/1",
+            "productPrice": 120000,
+            "totalPrice": 120000
+          }
+        ],
+        "totalAmount": 10000119999,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 10000119999,
+    "firstOrderDate": "2025-06-06T10:41",
+    "lastOrderDate": "2025-06-06T10:41"
   }
 ]
