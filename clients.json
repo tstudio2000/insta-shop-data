@@ -48,5 +48,30 @@
     "totalSpent": 1200000,
     "firstOrderDate": "2025-06-05T22:05",
     "lastOrderDate": "2025-06-05T22:05"
+  },
+  {
+    "id": "client_1749193427440",
+    "nickname": "Test",
+    "code": "Kod",
+    "orders": [
+      {
+        "id": "order_1749193427440",
+        "date": "2025-06-06T07:03",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 12,
+            "productName": "TS",
+            "productPrice": 9999999999,
+            "totalPrice": 119999999988
+          }
+        ],
+        "totalAmount": 119999999988,
+        "employeeId": null
+      }
+    ],
+    "totalSpent": 119999999988,
+    "firstOrderDate": "2025-06-06T07:03",
+    "lastOrderDate": "2025-06-06T07:03"
   }
 ]
