@@ -3,9 +3,9 @@
     "id": "code_1749215687305",
     "value": "30-50",
     "description": "",
-    "isUsed": false,
+    "isUsed": true,
     "createdAt": "2025-06-06T13:14:47.305Z",
-    "usedAt": null
+    "usedAt": "2025-06-06T13:19:37.114Z"
   },
   {
     "id": "code_1749215731698",
