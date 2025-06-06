@@ -82,5 +82,56 @@
     "totalSpent": 9999999999,
     "firstOrderDate": "2025-06-06T13:24",
     "lastOrderDate": "2025-06-06T13:24"
+  },
+  {
+    "id": "client_1749217500429",
+    "nickname": "mijoz",
+    "code": "10-50",
+    "orders": [
+      {
+        "id": "order_1749217500429",
+        "date": "2025-06-06T13:43",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194618179_53DE5682-6CCB-4A37-BEC1-517DADC95747.jpeg",
+            "totalPrice": 9999999999
+          },
+          {
+            "productId": "prod_1749160908334",
+            "quantity": 1,
+            "productName": "2/1",
+            "productPrice": 120000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+            "totalPrice": 120000
+          }
+        ],
+        "totalAmount": 10000119999,
+        "employeeId": null,
+        "paymentInfo": {
+          "prepayment": {
+            "amount": 100000000,
+            "date": "2025-06-06T13:43"
+          },
+          "fullPayment": {
+            "amount": 20000000,
+            "date": "2025-06-06T18:44"
+          }
+        },
+        "deliveryInfo": {
+          "address": "Toshkent",
+          "scheduledTime": "2025-06-06T18:44",
+          "actualTime": "2025-05-06T18:44"
+        },
+        "review": "Zor",
+        "status": "Охиргача тўланмаган"
+      }
+    ],
+    "totalSpent": 10000119999,
+    "firstOrderDate": "2025-06-06T13:43",
+    "lastOrderDate": "2025-06-06T13:43"
   }
 ]
