@@ -68,5 +68,41 @@
       "lastLogin": null
     },
     "lastLogin": "2025-06-07T08:42:51.476Z"
+  },
+  {
+    "lastName": "Hodim",
+    "firstName": "Hodim",
+    "middleName": "hodim",
+    "phone": "987656789065",
+    "username": "hodim002",
+    "password": "1",
+    "salary": "90000",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "restDays": [
+        "sat",
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "name": "Hodim Hodim hodim",
+    "id": "1749286964227",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
