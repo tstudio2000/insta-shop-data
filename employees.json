@@ -31,5 +31,41 @@
       "lastLogin": "2024-03-15T14:30:00Z"
     },
     "lastLogin": "2025-06-07T08:18:58.911Z"
+  },
+  {
+    "lastName": "familiya",
+    "firstName": "ism",
+    "middleName": "sharif",
+    "phone": "999999999999",
+    "username": "hodim",
+    "password": "1",
+    "salary": "29998",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "restDays": [
+        "sat",
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "name": "familiya ism sharif",
+    "id": "1749284542602",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
