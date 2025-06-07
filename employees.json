@@ -105,5 +105,41 @@
       "lastLogin": null
     },
     "lastLogin": "2025-06-07T09:07:09.307Z"
+  },
+  {
+    "lastName": "",
+    "firstName": "",
+    "middleName": "",
+    "phone": "",
+    "username": "",
+    "password": "",
+    "salary": "",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "restDays": [
+        "sat",
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "name": "",
+    "id": "1749287681452",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
