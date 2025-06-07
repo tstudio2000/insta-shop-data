@@ -228,5 +228,49 @@
     "totalSpent": 120120,
     "firstOrderDate": "2025-06-07T09:03",
     "lastOrderDate": "2025-06-07T09:03"
+  },
+  {
+    "id": "client_1749287273955",
+    "nickname": "Mijoz0",
+    "code": "47-07",
+    "orders": [
+      {
+        "id": "order_1749287273955",
+        "date": "2025-06-07T09:07",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194618179_53DE5682-6CCB-4A37-BEC1-517DADC95747.jpeg",
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeId": "1749286964227",
+        "employeeName": "hodim002",
+        "paymentInfo": {
+          "prepayment": {
+            "amount": 100000000,
+            "date": "2025-06-07T09:07"
+          },
+          "fullPayment": {
+            "amount": 100000000000,
+            "date": "2025-06-07T14:07"
+          }
+        },
+        "deliveryInfo": {
+          "address": "Toshkent",
+          "scheduledTime": "2025-06-08T14:07",
+          "actualTime": "2025-06-08T14:07"
+        },
+        "review": "100",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-07T09:07",
+    "lastOrderDate": "2025-06-07T09:07"
   }
 ]
