@@ -176,5 +176,57 @@
     "totalSpent": 9999999999,
     "firstOrderDate": "2025-06-06T18:15",
     "lastOrderDate": "2025-06-06T18:15"
+  },
+  {
+    "id": "client_1749287135686",
+    "nickname": "Mijoz",
+    "code": "51-07",
+    "orders": [
+      {
+        "id": "order_1749287135686",
+        "date": "2025-06-07T09:03",
+        "products": [
+          {
+            "productId": "prod_1749160908334",
+            "quantity": 1,
+            "productName": "2/1",
+            "productPrice": 120000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+            "totalPrice": 120000
+          },
+          {
+            "productId": "prod_1749234119229",
+            "quantity": 1,
+            "productName": "Сувенир:3та айиқчалик",
+            "productPrice": 120,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749234116182_IMG_1354.jpeg",
+            "totalPrice": 120
+          }
+        ],
+        "totalAmount": 120120,
+        "employeeId": "1749284542602",
+        "employeeName": "hodim",
+        "paymentInfo": {
+          "prepayment": {
+            "amount": 100000,
+            "date": "2025-06-07T09:03"
+          },
+          "fullPayment": {
+            "amount": 199998,
+            "date": "2025-06-07T14:04"
+          }
+        },
+        "deliveryInfo": {
+          "address": "Toshkent",
+          "scheduledTime": "2025-06-07T14:05",
+          "actualTime": "2025-06-07T14:05"
+        },
+        "review": "Boladi",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 120120,
+    "firstOrderDate": "2025-06-07T09:03",
+    "lastOrderDate": "2025-06-07T09:03"
   }
 ]
