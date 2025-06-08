@@ -67,7 +67,7 @@
     "id": "mail_1749391061229",
     "code": "20-52",
     "nickname": "ыфв",
-    "amount": 10,
+    "amount": 120000,
     "address": "а",
     "partyDate": "2025-06-08T13:57",
     "age": 20,
@@ -89,8 +89,12 @@
       {
         "amount": 10,
         "date": "2025-06-08T13:57"
+      },
+      {
+        "amount": 120000,
+        "date": "2025-06-08T14:06"
       }
     ],
-    "paidAmount": 10
+    "paidAmount": 120010
   }
 ]
