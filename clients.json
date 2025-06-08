@@ -33,9 +33,13 @@
             {
               "amount": 2,
               "date": "2025-06-08T11:59"
+            },
+            {
+              "amount": 20,
+              "date": "2025-06-08T11:59"
             }
           ],
-          "paidAmount": 200002
+          "paidAmount": 200022
         },
         "deliveryInfo": {
           "address": "sad",
