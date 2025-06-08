@@ -28,8 +28,13 @@
             "amount": "500.000",
             "date": "2025-06-08T22:35"
           },
-          "history": [],
-          "paidAmount": 600
+          "history": [
+            {
+              "amount": 200,
+              "date": "2025-06-08T17:37"
+            }
+          ],
+          "paidAmount": "100.000500.000200"
         },
         "deliveryInfo": {
           "address": "Бухоро",
