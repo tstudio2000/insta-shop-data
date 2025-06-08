@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "mail_1749388227113",
+    "code": "90-50",
+    "nickname": "Poch",
+    "amount": 1000000,
+    "address": "Tas",
+    "partyDate": "2025-06-08T13:09",
+    "age": 100,
+    "products": [
+      {
+        "productId": "prod_1749160871877",
+        "quantity": 1
+      },
+      {
+        "productId": "prod_1749160908334",
+        "quantity": 1
+      }
+    ],
+    "employeeId": "1749284542602",
+    "employeeName": "hodim",
+    "createdAt": "2025-06-08T13:10:27.113Z",
+    "status": "new"
+  }
+]
