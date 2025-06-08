@@ -88,8 +88,13 @@
             "amount": 1,
             "date": "2025-06-08T17:00"
           },
-          "history": [],
-          "paidAmount": 120001
+          "history": [
+            {
+              "amount": 20000,
+              "date": "2025-06-08T12:01"
+            }
+          ],
+          "paidAmount": 140001
         },
         "deliveryInfo": {
           "address": "d",
