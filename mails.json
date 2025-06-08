@@ -28,5 +28,28 @@
       }
     ],
     "paidAmount": 200000
+  },
+  {
+    "id": "mail_1749390988499",
+    "code": "90-502",
+    "nickname": "user_1002",
+    "amount": 100000,
+    "address": "Адрес",
+    "partyDate": "2025-06-08T13:55",
+    "age": 20,
+    "products": [
+      {
+        "productId": "prod_1749160908334",
+        "quantity": 1,
+        "productName": "2/1",
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+        "productPrice": 120000,
+        "totalPrice": 120000
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-08T13:56:28.500Z",
+    "status": "new"
   }
 ]
