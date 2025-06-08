@@ -102,5 +102,50 @@
     "totalSpent": 120000,
     "firstOrderDate": "2025-06-08T14:38",
     "lastOrderDate": "2025-06-08T14:38"
+  },
+  {
+    "id": "client_1749394069686",
+    "nickname": "Mijoz1002",
+    "code": "70-52",
+    "orders": [
+      {
+        "id": "order_1749394069686",
+        "date": "2025-06-08T14:43",
+        "products": [
+          {
+            "productId": "prod_1749160908334",
+            "quantity": 1,
+            "productName": "2/1",
+            "productPrice": 120000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+            "totalPrice": 120000
+          }
+        ],
+        "totalAmount": 120000,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayment": {
+            "amount": 200000,
+            "date": "2025-06-08T14:43"
+          },
+          "fullPayment": {
+            "amount": 200000,
+            "date": "2025-06-08T19:47"
+          },
+          "history": [],
+          "paidAmount": 400000
+        },
+        "deliveryInfo": {
+          "address": "Toshkent",
+          "scheduledTime": "2025-06-08T19:47",
+          "actualTime": "2025-06-08T19:47"
+        },
+        "review": "ZOO",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 120000,
+    "firstOrderDate": "2025-06-08T14:43",
+    "lastOrderDate": "2025-06-08T14:43"
   }
 ]
