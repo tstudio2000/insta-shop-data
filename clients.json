@@ -34,11 +34,16 @@
             "date": "2025-06-08T12:49"
           },
           "fullPayment": {
-            "amount": 300000,
-            "date": "2025-06-08T17:49"
+            "amount": 10001319999,
+            "date": "2025-06-08T12:51"
           },
-          "history": [],
-          "paidAmount": 1200000
+          "history": [
+            {
+              "amount": 10000119999,
+              "date": "2025-06-08T12:51"
+            }
+          ],
+          "paidAmount": 10001319999
         },
         "deliveryInfo": {
           "address": "в",
@@ -46,7 +51,7 @@
           "actualTime": "2025-06-08T17:50"
         },
         "review": "Зор",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 10000119999,
