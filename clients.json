@@ -84,8 +84,13 @@
             "amount": 0,
             "date": null
           },
-          "history": [],
-          "paidAmount": 0
+          "history": [
+            {
+              "amount": 200,
+              "date": "2025-06-08T09:34"
+            }
+          ],
+          "paidAmount": 200
         },
         "deliveryInfo": {
           "address": "Таш",
