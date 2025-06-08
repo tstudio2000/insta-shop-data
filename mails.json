@@ -50,6 +50,13 @@
     "employeeId": "1",
     "employeeName": "admin",
     "createdAt": "2025-06-08T13:56:28.500Z",
-    "status": "new"
+    "status": "completed",
+    "payments": [
+      {
+        "amount": 100000,
+        "date": "2025-06-08T13:56"
+      }
+    ],
+    "paidAmount": 100000
   }
 ]
