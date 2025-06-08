@@ -22,5 +22,13 @@
     "createdAt": "2025-06-08T12:06:10.304Z",
     "isUsed": false,
     "usedAt": null
+  },
+  {
+    "id": "code_1749387065971",
+    "value": "50-60",
+    "description": "Мижоз учун яратилган код 123",
+    "isUsed": true,
+    "createdAt": "2025-06-08T12:51:05.937Z",
+    "usedAt": "2025-06-08T12:51:05.937Z"
   }
 ]
