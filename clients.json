@@ -29,8 +29,13 @@
             "amount": 0,
             "date": null
           },
-          "history": [],
-          "paidAmount": 0
+          "history": [
+            {
+              "amount": 10002,
+              "date": "2025-06-08T09:02"
+            }
+          ],
+          "paidAmount": 10002
         },
         "deliveryInfo": {
           "address": "Toshkebt",
