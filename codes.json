@@ -14,5 +14,13 @@
     "createdAt": "2025-06-08T12:05:52.916Z",
     "isUsed": false,
     "usedAt": null
+  },
+  {
+    "id": "code_1749384370304",
+    "value": "20-52",
+    "description": "Почта",
+    "createdAt": "2025-06-08T12:06:10.304Z",
+    "isUsed": false,
+    "usedAt": null
   }
 ]
