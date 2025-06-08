@@ -84,11 +84,16 @@
             "date": "2025-06-08T14:38"
           },
           "fullPayment": {
-            "amount": 100000,
-            "date": "2025-06-08T19:40"
+            "amount": 300001,
+            "date": "2025-06-08T14:50"
           },
-          "history": [],
-          "paidAmount": 300000
+          "history": [
+            {
+              "amount": 1,
+              "date": "2025-06-08T14:50"
+            }
+          ],
+          "paidAmount": 300001
         },
         "deliveryInfo": {
           "address": "Toshkent",
@@ -96,7 +101,7 @@
           "actualTime": "2025-06-08T19:40"
         },
         "review": "ZOR",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 120000,
