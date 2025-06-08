@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "code_1749384337790",
+    "value": "20-50",
+    "description": "Заказ",
+    "createdAt": "2025-06-08T12:05:37.790Z",
+    "isUsed": false,
+    "usedAt": null
+  }
+]
