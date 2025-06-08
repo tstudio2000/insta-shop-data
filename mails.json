@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "id": "mail_1749389020290",
+    "code": "10-50",
+    "nickname": "Nio",
+    "amount": 2000000,
+    "address": "Adres",
+    "partyDate": "2025-06-08T13:22",
+    "age": 20,
+    "products": [
+      {
+        "productId": "prod_1749160871877",
+        "quantity": 1,
+        "productName": "2/2",
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194618179_53DE5682-6CCB-4A37-BEC1-517DADC95747.jpeg",
+        "productPrice": 9999999999,
+        "totalPrice": 9999999999
+      },
+      {
+        "productId": "prod_1749234119229",
+        "quantity": 1,
+        "productName": "Сувенир:3та айиқчалик",
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749234116182_IMG_1354.jpeg",
+        "productPrice": 120,
+        "totalPrice": 120
+      }
+    ],
+    "employeeId": "1749284542602",
+    "employeeName": "hodim",
+    "createdAt": "2025-06-08T13:23:40.290Z",
+    "status": "new"
+  }
+]
