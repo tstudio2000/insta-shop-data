@@ -26,16 +26,20 @@
             "date": null
           },
           "fullPayment": {
-            "amount": 0,
-            "date": null
+            "amount": 900010002,
+            "date": "2025-06-08T10:02"
           },
           "history": [
             {
               "amount": 10002,
               "date": "2025-06-08T09:02"
+            },
+            {
+              "amount": 900000000,
+              "date": "2025-06-08T10:02"
             }
           ],
-          "paidAmount": 10002
+          "paidAmount": 900010002
         },
         "deliveryInfo": {
           "address": "Toshkebt",
@@ -43,7 +47,7 @@
           "actualTime": "2025-06-08T13:54"
         },
         "review": "O",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 120000,
