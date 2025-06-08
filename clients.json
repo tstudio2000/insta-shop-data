@@ -26,8 +26,8 @@
             "date": "2025-06-08T11:55"
           },
           "fullPayment": {
-            "amount": 100000,
-            "date": "2025-06-08T16:58"
+            "amount": 240022,
+            "date": "2025-06-08T11:59"
           },
           "history": [
             {
@@ -37,9 +37,13 @@
             {
               "amount": 20,
               "date": "2025-06-08T11:59"
+            },
+            {
+              "amount": 40000,
+              "date": "2025-06-08T11:59"
             }
           ],
-          "paidAmount": 200022
+          "paidAmount": 240022
         },
         "deliveryInfo": {
           "address": "sad",
@@ -47,7 +51,7 @@
           "actualTime": "2025-06-08T16:58"
         },
         "review": "dasdqw",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 240000,
