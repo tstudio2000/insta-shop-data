@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "mail_1749389327401",
+    "code": "30-50",
+    "nickname": "Почта",
+    "amount": 2500,
+    "address": "адрес",
+    "partyDate": "2025-06-08T13:28",
+    "age": 29,
+    "products": [
+      {
+        "productId": "prod_1749160908334",
+        "quantity": 1,
+        "productName": "2/1",
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+        "productPrice": 120000,
+        "totalPrice": 120000
+      }
+    ],
+    "employeeId": "1749284542602",
+    "employeeName": "hodim",
+    "createdAt": "2025-06-08T13:28:47.401Z",
+    "status": "new"
+  }
+]
