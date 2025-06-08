@@ -85,11 +85,16 @@
             "date": "2025-06-08T10:34"
           },
           "fullPayment": {
-            "amount": 100000,
-            "date": "2025-06-08T15:38"
+            "amount": 200020,
+            "date": "2025-06-08T10:43"
           },
-          "history": [],
-          "paidAmount": 200000
+          "history": [
+            {
+              "amount": 20,
+              "date": "2025-06-08T10:43"
+            }
+          ],
+          "paidAmount": 200020
         },
         "deliveryInfo": {
           "address": "resad",
@@ -97,7 +102,7 @@
           "actualTime": "2025-06-08T15:38"
         },
         "review": "sda",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 120000,
