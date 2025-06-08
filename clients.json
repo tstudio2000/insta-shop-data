@@ -136,11 +136,16 @@
             "date": "2025-06-08T10:49"
           },
           "fullPayment": {
-            "amount": "1",
-            "date": "2025-06-08T15:55"
+            "amount": "5110000",
+            "date": "2025-06-08T10:56"
           },
-          "history": [],
-          "paidAmount": 6
+          "history": [
+            {
+              "amount": 10000,
+              "date": "2025-06-08T10:56"
+            }
+          ],
+          "paidAmount": "5110000"
         },
         "deliveryInfo": {
           "address": "sd",
@@ -148,7 +153,7 @@
           "actualTime": "2025-06-08T15:56"
         },
         "review": "s",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 120000,
