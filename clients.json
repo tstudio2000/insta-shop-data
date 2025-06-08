@@ -33,9 +33,13 @@
             {
               "amount": 100000,
               "date": "2025-06-08T09:53"
+            },
+            {
+              "amount": 120000,
+              "date": "2025-06-08T10:34"
             }
           ],
-          "paidAmount": 300000
+          "paidAmount": 420000
         },
         "deliveryInfo": {
           "address": "Toshent",
