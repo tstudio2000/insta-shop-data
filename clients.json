@@ -26,8 +26,8 @@
             "date": "2025-06-08T09:45"
           },
           "fullPayment": {
-            "amount": 100000,
-            "date": "2025-06-08T14:46"
+            "amount": 540000,
+            "date": "2025-06-08T10:34"
           },
           "history": [
             {
@@ -37,9 +37,13 @@
             {
               "amount": 120000,
               "date": "2025-06-08T10:34"
+            },
+            {
+              "amount": 120000,
+              "date": "2025-06-08T10:34"
             }
           ],
-          "paidAmount": 420000
+          "paidAmount": 540000
         },
         "deliveryInfo": {
           "address": "Toshent",
@@ -47,7 +51,7 @@
           "actualTime": "2025-06-08T14:47"
         },
         "review": "Masd",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 480000,
