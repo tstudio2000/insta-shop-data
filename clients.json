@@ -166,10 +166,14 @@
             {
               "amount": "100230",
               "date": "2025-06-09T15:22"
+            },
+            {
+              "amount": 19770,
+              "date": "2025-06-09T16:35"
             }
           ],
           "history": [],
-          "paidAmount": 100230
+          "paidAmount": "[object Object]0"
         },
         "deliveryInfo": {
           "address": "10",
