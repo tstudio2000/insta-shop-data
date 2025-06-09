@@ -72,10 +72,14 @@
             {
               "amount": "1251",
               "date": "2025-06-09T18:02"
+            },
+            {
+              "amount": 115555,
+              "date": "2025-06-09T18:02"
             }
           ],
           "history": [],
-          "paidAmount": 1251
+          "paidAmount": 0
         },
         "deliveryInfo": {
           "address": "521",
