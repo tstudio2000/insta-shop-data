@@ -50,5 +50,49 @@
     "totalSpent": 120000,
     "firstOrderDate": "2025-06-09T13:58",
     "lastOrderDate": "2025-06-09T13:58"
+  },
+  {
+    "id": "client_1749478304703",
+    "nickname": "a",
+    "code": "2235",
+    "orders": [
+      {
+        "id": "order_1749478304703",
+        "date": "2025-06-09T14:09",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194618179_53DE5682-6CCB-4A37-BEC1-517DADC95747.jpeg",
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "10000000000",
+              "date": "2025-06-09T14:09"
+            }
+          ],
+          "history": [],
+          "paidAmount": 10000000000
+        },
+        "deliveryInfo": {
+          "address": "10",
+          "scheduledTime": "2025-06-07T19:11",
+          "actualTime": "2025-06-20T19:11"
+        },
+        "partyDate": "2025-06-11T19:11",
+        "review": "as",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-09T14:09",
+    "lastOrderDate": "2025-06-09T14:09"
   }
 ]
