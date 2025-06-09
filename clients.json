@@ -40,10 +40,14 @@
             {
               "amount": 1090,
               "date": "2025-06-09T18:52"
+            },
+            {
+              "amount": 109000,
+              "date": "2025-06-09T18:52"
             }
           ],
           "history": [],
-          "paidAmount": 17067
+          "paidAmount": 126067
         },
         "deliveryInfo": {
           "address": "512",
@@ -52,7 +56,7 @@
         },
         "partyDate": "",
         "review": "",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 120000,
