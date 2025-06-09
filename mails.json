@@ -53,8 +53,13 @@
     "employeeId": "1749284542602",
     "employeeName": "hodim",
     "createdAt": "2025-06-09T15:39:35.935Z",
-    "status": "new",
-    "paidAmount": 0,
-    "payments": []
+    "status": "completed",
+    "paidAmount": 120000,
+    "payments": [
+      {
+        "amount": 120000,
+        "date": "2025-06-09T15:54"
+      }
+    ]
   }
 ]
