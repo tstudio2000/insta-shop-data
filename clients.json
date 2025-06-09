@@ -88,10 +88,14 @@
             {
               "amount": 9798195100,
               "date": "2025-06-09T17:23"
+            },
+            {
+              "amount": 979819510,
+              "date": "2025-06-09T17:23"
             }
           ],
           "history": [],
-          "paidAmount": "0"
+          "paidAmount": "[object Object]000"
         },
         "deliveryInfo": {
           "address": "Adres",
