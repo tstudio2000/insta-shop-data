@@ -82,20 +82,12 @@
               "date": "2025-06-09T17:32"
             },
             {
-              "amount": 1512,
-              "date": "2025-06-09T17:43"
-            },
-            {
-              "amount": 1512444,
-              "date": "2025-06-09T17:43"
-            },
-            {
               "amount": "1202333",
               "date": "2025-06-09T17:46"
             }
           ],
           "history": [],
-          "paidAmount": "[object Object]00000"
+          "paidAmount": "1999"
         },
         "deliveryInfo": {
           "address": "Manzil",
