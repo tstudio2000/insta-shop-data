@@ -6,9 +6,7 @@
     "amount": 120000,
     "address": "Manzil",
     "partyDate": "2025-06-10T12:11",
-    "checkImages": [
-      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749557534691_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
-    ],
+    "checkImages": [],
     "deliveryInfo": {
       "scheduledTime": "2025-06-10T17:12",
       "actualTime": "2025-06-11T17:12"
