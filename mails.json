@@ -47,7 +47,12 @@
     "amount": 120000,
     "address": "1",
     "partyDate": "2025-06-10T16:20",
-    "checkImages": [],
+    "checkImages": [
+      {
+        "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749572530470_12.png",
+        "isPaid": false
+      }
+    ],
     "deliveryInfo": {
       "scheduledTime": "2025-06-10T21:21",
       "actualTime": "2025-06-10T21:21"
