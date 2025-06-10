@@ -56,7 +56,10 @@
         },
         "partyDate": "",
         "review": "",
-        "status": "Тўллиқ тўланган"
+        "status": "Тўллиқ тўланган",
+        "checkImages": [
+          "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749550294503_hp_250_g3_side_11.jpg"
+        ]
       }
     ],
     "totalSpent": 120000,
