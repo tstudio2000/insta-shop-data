@@ -33,5 +33,42 @@
         "date": "2025-06-10T17:16"
       }
     ]
+  },
+  {
+    "id": "mail_1749577777271",
+    "code": "9876",
+    "nickname": "Никер",
+    "amount": 120000,
+    "address": "Манзили",
+    "partyDate": "2025-06-14T17:47",
+    "checkImages": [
+      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749577747303_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
+    ],
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-12T22:49",
+      "actualTime": "2025-06-12T22:49"
+    },
+    "age": 18,
+    "products": [
+      {
+        "productId": "prod_1749160908334",
+        "quantity": 1,
+        "productName": "2/1",
+        "productPrice": 120000,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+        "totalPrice": 120000
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-10T17:49:37.271Z",
+    "status": "new",
+    "paidAmount": 125790,
+    "payments": [
+      {
+        "amount": 125790,
+        "date": "2025-06-10T17:47"
+      }
+    ]
   }
 ]
