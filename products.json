@@ -33,5 +33,13 @@
     "price": 100,
     "stock": 1,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749486800495_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
+  },
+  {
+    "id": "prod_1749587395449",
+    "name": "Сувенир",
+    "price": 10000,
+    "stock": 10,
+    "isSouvenir": true,
+    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749587394061_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
   }
 ]
