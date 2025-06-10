@@ -38,5 +38,13 @@
     "isUsed": true,
     "createdAt": "2025-06-10T16:21:19.162Z",
     "usedAt": "2025-06-10T16:21:19.162Z"
+  },
+  {
+    "id": "code_1749573726266",
+    "value": "94201",
+    "description": "Почта для Niao",
+    "isUsed": true,
+    "createdAt": "2025-06-10T16:42:06.225Z",
+    "usedAt": "2025-06-10T16:42:06.226Z"
   }
 ]
