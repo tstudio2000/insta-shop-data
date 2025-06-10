@@ -84,10 +84,14 @@
             {
               "amount": "12500",
               "date": "2025-06-10T14:10"
+            },
+            {
+              "amount": 95500,
+              "date": "2025-06-10T14:09"
             }
           ],
           "history": [],
-          "paidAmount": 24500
+          "paidAmount": 120000
         },
         "deliveryInfo": {
           "address": "Manzil",
@@ -96,7 +100,7 @@
         },
         "partyDate": "2025-06-10T19:10",
         "review": "Ba",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 120000,
