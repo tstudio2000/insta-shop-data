@@ -14,5 +14,13 @@
     "isUsed": true,
     "createdAt": "2025-06-10T07:14:18.133Z",
     "usedAt": "2025-06-10T07:14:18.133Z"
+  },
+  {
+    "id": "code_1749544583911",
+    "value": "90706",
+    "description": "Почта для Nicos",
+    "isUsed": true,
+    "createdAt": "2025-06-10T08:36:23.868Z",
+    "usedAt": "2025-06-10T08:36:23.868Z"
   }
 ]
