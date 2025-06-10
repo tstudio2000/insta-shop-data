@@ -6,9 +6,7 @@
     "orders": [
       {
         "id": "order_1749559744423",
-        "checkImages": [
-          "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749563613587_12.png"
-        ],
+        "checkImages": [],
         "date": "2025-06-10T12:48",
         "products": [
           {
