@@ -39,5 +39,46 @@
         "date": "2025-06-10T15:55"
       }
     ]
+  },
+  {
+    "id": "mail_1749572480333",
+    "code": "52",
+    "nickname": "A",
+    "amount": 120000,
+    "address": "1",
+    "partyDate": "2025-06-10T16:20",
+    "checkImages": [
+      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749572461065_12.png"
+    ],
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-10T21:21",
+      "actualTime": "2025-06-10T21:21"
+    },
+    "age": 1,
+    "products": [
+      {
+        "productId": "prod_1749160908334",
+        "quantity": 1,
+        "productName": "2/1",
+        "productPrice": 120000,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+        "totalPrice": 120000
+      }
+    ],
+    "employeeId": "1749284542602",
+    "employeeName": "hodim",
+    "createdAt": "2025-06-10T16:21:20.333Z",
+    "status": "new",
+    "paidAmount": 15000159,
+    "payments": [
+      {
+        "amount": 15000002,
+        "date": "2025-06-10T16:20"
+      },
+      {
+        "amount": 157,
+        "date": "2025-06-10T16:20"
+      }
+    ]
   }
 ]
