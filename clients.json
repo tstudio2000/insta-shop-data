@@ -8,10 +8,6 @@
         "id": "order_1749559744423",
         "checkImages": [
           {
-            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749565897335_12.png",
-            "isPaid": false
-          },
-          {
             "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749566483011_Без_названия.png",
             "isPaid": false
           }
