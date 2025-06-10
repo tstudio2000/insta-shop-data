@@ -6,12 +6,7 @@
     "orders": [
       {
         "id": "order_1749567159427",
-        "checkImages": [
-          {
-            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749570260358_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
-            "isPaid": false
-          }
-        ],
+        "checkImages": [],
         "date": "2025-06-10T14:51",
         "products": [
           {
