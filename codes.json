@@ -22,5 +22,13 @@
     "isUsed": true,
     "createdAt": "2025-06-10T08:36:23.868Z",
     "usedAt": "2025-06-10T08:36:23.868Z"
+  },
+  {
+    "id": "code_1749545288295",
+    "value": "12301",
+    "description": "Почта для Nicks1",
+    "isUsed": true,
+    "createdAt": "2025-06-10T08:48:08.234Z",
+    "usedAt": "2025-06-10T08:48:08.234Z"
   }
 ]
