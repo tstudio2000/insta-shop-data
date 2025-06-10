@@ -267,5 +267,39 @@
         "date": "2025-06-10T08:36"
       }
     ]
+  },
+  {
+    "id": "mail_1749545289279",
+    "code": "12301",
+    "nickname": "Nicks1",
+    "amount": 9999999999,
+    "address": "Manzil",
+    "partyDate": "2025-06-10T08:47",
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-13T13:47",
+      "actualTime": "2025-06-14T13:47"
+    },
+    "age": 190,
+    "products": [
+      {
+        "productId": "prod_1749160871877",
+        "quantity": 1,
+        "productName": "2/2",
+        "productPrice": 9999999999,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194618179_53DE5682-6CCB-4A37-BEC1-517DADC95747.jpeg",
+        "totalPrice": 9999999999
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-10T08:48:09.279Z",
+    "status": "new",
+    "paidAmount": 10200000002,
+    "payments": [
+      {
+        "amount": 10200000002,
+        "date": "2025-06-10T08:47"
+      }
+    ]
   }
 ]
