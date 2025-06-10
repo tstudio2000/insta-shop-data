@@ -225,5 +225,43 @@
         "date": "2025-06-10T07:01"
       }
     ]
+  },
+  {
+    "id": "mail_1749544585209",
+    "code": "90706",
+    "nickname": "Nicos",
+    "amount": 9000000,
+    "address": "Manzil",
+    "partyDate": "2025-06-10T08:35",
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-10T13:36",
+      "actualTime": "2025-06-10T13:36"
+    },
+    "age": 190,
+    "products": [
+      {
+        "productId": "prod_1749484846955",
+        "quantity": 1,
+        "productName": "Nout",
+        "productPrice": 9000000,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749484845569_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+        "totalPrice": 9000000
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-10T08:36:25.209Z",
+    "status": "new",
+    "paidAmount": 4500000,
+    "payments": [
+      {
+        "amount": 3000000,
+        "date": "2025-06-10T08:35"
+      },
+      {
+        "amount": 1500000,
+        "date": "2025-06-10T08:36"
+      }
+    ]
   }
 ]
