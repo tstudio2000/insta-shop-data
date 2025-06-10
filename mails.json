@@ -6,14 +6,7 @@
     "amount": 100,
     "address": "12",
     "partyDate": "2025-06-10T17:16",
-    "checkImages": [
-      {
-        "id": "check_1749575823704_0.22230629245055233",
-        "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749575814119_Снигшшмок.PNG",
-        "isPaid": true,
-        "paidDate": "2025-06-10T17:20:32.459Z"
-      }
-    ],
+    "checkImages": [],
     "deliveryInfo": {
       "scheduledTime": "",
       "actualTime": ""
