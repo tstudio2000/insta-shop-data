@@ -46,5 +46,13 @@
     "isUsed": true,
     "createdAt": "2025-06-10T16:42:06.225Z",
     "usedAt": "2025-06-10T16:42:06.226Z"
+  },
+  {
+    "id": "code_1749575821480",
+    "value": "1204",
+    "description": "Почта для Nizs",
+    "isUsed": true,
+    "createdAt": "2025-06-10T17:17:01.434Z",
+    "usedAt": "2025-06-10T17:17:01.434Z"
   }
 ]
