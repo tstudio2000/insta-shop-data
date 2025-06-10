@@ -62,5 +62,52 @@
     "totalSpent": 120000,
     "firstOrderDate": "2025-06-09T18:52",
     "lastOrderDate": "2025-06-09T18:52"
+  },
+  {
+    "id": "client_1749550274272",
+    "nickname": "Clientchec",
+    "code": "0987654321",
+    "orders": [
+      {
+        "id": "order_1749550274272",
+        "date": "2025-06-10T10:10",
+        "products": [
+          {
+            "productId": "prod_1749160908334",
+            "quantity": 1,
+            "productName": "2/1",
+            "productPrice": 120000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+            "totalPrice": 120000
+          }
+        ],
+        "totalAmount": 120000,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "1203421",
+              "date": "2025-06-10T10:10"
+            }
+          ],
+          "history": [],
+          "paidAmount": 1203421
+        },
+        "deliveryInfo": {
+          "address": "1",
+          "scheduledTime": "",
+          "actualTime": ""
+        },
+        "partyDate": "",
+        "review": "",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 120000,
+    "firstOrderDate": "2025-06-10T10:10",
+    "lastOrderDate": "2025-06-10T10:10",
+    "checkImages": [
+      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749550262496_hp_250_g3_side_11.jpg"
+    ]
   }
 ]
