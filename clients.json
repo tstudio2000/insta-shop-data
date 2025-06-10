@@ -50,5 +50,68 @@
     "totalSpent": 9999999999,
     "firstOrderDate": "2025-06-10T14:51",
     "lastOrderDate": "2025-06-10T14:51"
+  },
+  {
+    "id": "client_1749587496861",
+    "nickname": "Ника",
+    "code": "104",
+    "orders": [
+      {
+        "id": "order_1749587496861",
+        "checkImages": [
+          "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749587466864_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
+        ],
+        "date": "2025-06-10T20:30",
+        "products": [
+          {
+            "productId": "prod_1749160908334",
+            "quantity": 1,
+            "productName": "2/1",
+            "productPrice": 120000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+            "totalPrice": 120000
+          },
+          {
+            "productId": "prod_1749234119229",
+            "quantity": 1,
+            "productName": "Сувенир:3та айиқчалик",
+            "productPrice": 120,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749234116182_IMG_1354.jpeg",
+            "totalPrice": 120
+          },
+          {
+            "productId": "prod_1749587395449",
+            "quantity": 1,
+            "productName": "Сувенир",
+            "productPrice": 10000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749587394061_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+            "totalPrice": 10000
+          }
+        ],
+        "totalAmount": 130120,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "140000",
+              "date": "2025-06-10T20:30"
+            }
+          ],
+          "history": [],
+          "paidAmount": 140000
+        },
+        "deliveryInfo": {
+          "address": "199 А",
+          "scheduledTime": "2025-06-12T01:31",
+          "actualTime": "2025-06-12T01:31"
+        },
+        "partyDate": "2025-06-12T01:31",
+        "review": "Зор",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 130120,
+    "firstOrderDate": "2025-06-10T20:30",
+    "lastOrderDate": "2025-06-10T20:30"
   }
 ]
