@@ -28,9 +28,14 @@
     "employeeId": "1",
     "employeeName": "admin",
     "createdAt": "2025-06-08T17:45:03.197Z",
-    "status": "new",
-    "paidAmount": 0,
-    "payments": []
+    "status": "completed",
+    "paidAmount": 10000000119,
+    "payments": [
+      {
+        "amount": 10000000119,
+        "date": "2025-06-10T08:12"
+      }
+    ]
   },
   {
     "id": "mail_1749483575935",
