@@ -84,9 +84,14 @@
         "totalAmount": 120000,
         "employeeName": "admin",
         "paymentInfo": {
-          "prepayments": [],
+          "prepayments": [
+            {
+              "amount": 120000,
+              "date": "2025-06-11T03:33"
+            }
+          ],
           "history": [],
-          "paidAmount": 0
+          "paidAmount": 120000
         },
         "deliveryInfo": {
           "address": "",
@@ -95,7 +100,7 @@
         },
         "partyDate": "",
         "review": "",
-        "status": "Тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 120000,
