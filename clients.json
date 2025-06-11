@@ -327,13 +327,13 @@
         "checkImages": [
           {
             "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749612427750_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
-            "isPaid": false,
-            "paidDate": null
+            "isPaid": true,
+            "paidDate": "2025-06-11T03:31:11.340Z"
           },
           {
             "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749612433048_12.png",
-            "isPaid": false,
-            "paidDate": null
+            "isPaid": true,
+            "paidDate": "2025-06-11T03:31:11.340Z"
           }
         ],
         "date": "2025-06-11T03:26",
