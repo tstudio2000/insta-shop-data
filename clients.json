@@ -316,5 +316,61 @@
     "totalSpent": 120000,
     "firstOrderDate": "2025-06-11T03:00",
     "lastOrderDate": "2025-06-11T03:00"
+  },
+  {
+    "id": "client_1749612443018",
+    "nickname": "oo",
+    "code": "9842",
+    "orders": [
+      {
+        "id": "order_1749612443018",
+        "checkImages": [
+          {
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749612427750_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+            "isPaid": false,
+            "paidDate": null
+          },
+          {
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749612433048_12.png",
+            "isPaid": false,
+            "paidDate": null
+          }
+        ],
+        "date": "2025-06-11T03:26",
+        "products": [
+          {
+            "productId": "prod_1749160908334",
+            "quantity": 1,
+            "productName": "2/1",
+            "productPrice": 120000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+            "totalPrice": 120000
+          }
+        ],
+        "totalAmount": 120000,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "150000",
+              "date": "2025-06-11T03:26"
+            }
+          ],
+          "history": [],
+          "paidAmount": 150000
+        },
+        "deliveryInfo": {
+          "address": "",
+          "scheduledTime": "",
+          "actualTime": ""
+        },
+        "partyDate": "",
+        "review": "",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 120000,
+    "firstOrderDate": "2025-06-11T03:26",
+    "lastOrderDate": "2025-06-11T03:26"
   }
 ]
