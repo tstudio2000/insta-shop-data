@@ -103,5 +103,63 @@
     "totalSpent": 9999999999,
     "firstOrderDate": "2025-06-11T04:54",
     "lastOrderDate": "2025-06-11T04:54"
+  },
+  {
+    "id": "client_1749677877136",
+    "nickname": "Alls",
+    "code": "80-15",
+    "orders": [
+      {
+        "id": "order_1749677877136",
+        "checkImages": [
+          {
+            "id": "check_1749677827476_0.5416124017911027",
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749677822841_IMG_2053.png",
+            "isPaid": false,
+            "paidDate": null
+          },
+          {
+            "id": "check_1749677827476_0.32284482618504196",
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749677822842_IMG_2054.jpeg",
+            "isPaid": false,
+            "paidDate": null
+          }
+        ],
+        "date": "2025-06-11T21:35",
+        "products": [
+          {
+            "productId": "prod_1749587395449",
+            "quantity": 1,
+            "productName": "Сувенир",
+            "productPrice": 10000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749587394061_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+            "totalPrice": 10000
+          }
+        ],
+        "totalAmount": 10000,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "100000",
+              "date": "2025-06-11T21:35"
+            }
+          ],
+          "history": [],
+          "paidAmount": 100000
+        },
+        "deliveryInfo": {
+          "address": "Андижон:автовакзал",
+          "scheduledTime": "2025-06-14T02:37",
+          "actualTime": "2025-06-16T02:37"
+        },
+        "partyDate": "2025-06-20T02:37",
+        "review": "",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 10000,
+    "firstOrderDate": "2025-06-11T21:35",
+    "lastOrderDate": "2025-06-11T21:35"
   }
 ]
