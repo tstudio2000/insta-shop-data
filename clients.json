@@ -100,5 +100,56 @@
     "totalSpent": 120000,
     "firstOrderDate": "2025-06-11T03:33",
     "lastOrderDate": "2025-06-11T03:33"
+  },
+  {
+    "id": "client_1749613618041",
+    "nickname": "dsa",
+    "code": "421",
+    "orders": [
+      {
+        "id": "order_1749613618041",
+        "checkImages": [
+          {
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749613611354_12.png",
+            "isPaid": false,
+            "paidDate": null
+          }
+        ],
+        "date": "2025-06-11T03:45",
+        "products": [
+          {
+            "productId": "prod_1749484846955",
+            "quantity": 1,
+            "productName": "Nout",
+            "productPrice": 9000000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749484845569_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+            "totalPrice": 9000000
+          }
+        ],
+        "totalAmount": 9000000,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "9000000",
+              "date": "2025-06-11T03:46"
+            }
+          ],
+          "history": [],
+          "paidAmount": 9000000
+        },
+        "deliveryInfo": {
+          "address": "",
+          "scheduledTime": "",
+          "actualTime": ""
+        },
+        "partyDate": "",
+        "review": "",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 9000000,
+    "firstOrderDate": "2025-06-11T03:45",
+    "lastOrderDate": "2025-06-11T03:45"
   }
 ]
