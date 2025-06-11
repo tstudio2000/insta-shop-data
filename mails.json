@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "id": "mail_1749614667486",
+    "code": "124",
+    "nickname": "Nick",
+    "amount": 120000,
+    "address": "",
+    "partyDate": "2025-06-11T04:03",
+    "checkImages": [
+      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749614662785_12.png"
+    ],
+    "deliveryInfo": {
+      "scheduledTime": "",
+      "actualTime": ""
+    },
+    "age": 0,
+    "products": [
+      {
+        "productId": "prod_1749160908334",
+        "quantity": 1,
+        "productName": "2/1",
+        "productPrice": 120000,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194654835_EBFEFDCA-8803-4B6C-94F5-564A417673C9.jpeg",
+        "totalPrice": 120000
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-11T04:04:27.486Z",
+    "status": "new",
+    "paidAmount": 120000,
+    "payments": [
+      {
+        "amount": 120000,
+        "date": "2025-06-11T04:03"
+      }
+    ]
+  }
+]
