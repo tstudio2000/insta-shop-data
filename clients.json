@@ -124,5 +124,53 @@
     "totalSpent": 130120,
     "firstOrderDate": "2025-06-10T20:30",
     "lastOrderDate": "2025-06-10T20:30"
+  },
+  {
+    "id": "client_1749611074332",
+    "nickname": "Ni",
+    "code": "998764",
+    "orders": [
+      {
+        "id": "order_1749611074332",
+        "checkImages": [
+          "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749611055776_Screenshot_20250526-211850.jpg"
+        ],
+        "date": "2025-06-11T08:03",
+        "products": [
+          {
+            "productId": "prod_1749587395449",
+            "quantity": 1,
+            "productName": "Сувенир",
+            "productPrice": 10000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749587394061_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+            "totalPrice": 10000
+          }
+        ],
+        "totalAmount": 10000,
+        "employeeId": "1749284542602",
+        "employeeName": "hodim",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "19000",
+              "date": "2025-06-11T03:03"
+            }
+          ],
+          "history": [],
+          "paidAmount": 19000
+        },
+        "deliveryInfo": {
+          "address": "Ma",
+          "scheduledTime": "2025-06-11T08:04",
+          "actualTime": "2025-06-11T08:04"
+        },
+        "partyDate": "2025-06-11T08:04",
+        "review": "M",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 10000,
+    "firstOrderDate": "2025-06-11T08:03",
+    "lastOrderDate": "2025-06-11T08:03"
   }
 ]
