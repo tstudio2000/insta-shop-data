@@ -66,8 +66,8 @@
         "checkImages": [
           {
             "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749612922715_43r34r3.PNG",
-            "isPaid": false,
-            "paidDate": null
+            "isPaid": true,
+            "paidDate": "2025-06-11T03:35:43.497Z"
           }
         ],
         "date": "2025-06-11T03:33",
