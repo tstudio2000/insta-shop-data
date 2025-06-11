@@ -15,7 +15,8 @@
       {
         "id": "check_1749614678667_0.5362746368147758",
         "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749614677404_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
-        "isPaid": false
+        "isPaid": true,
+        "paidDate": "2025-06-11T04:04:42.053Z"
       }
     ],
     "deliveryInfo": {
