@@ -50,5 +50,58 @@
     "totalSpent": 120000,
     "firstOrderDate": "2025-06-11T03:51",
     "lastOrderDate": "2025-06-11T03:51"
+  },
+  {
+    "id": "client_1749617736989",
+    "nickname": "Test",
+    "code": "998-62",
+    "orders": [
+      {
+        "id": "order_1749617736989",
+        "checkImages": [
+          {
+            "id": "check_1749617718151_0.05347495120339041",
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749617715935_IMG_20250429_110138_900.webp",
+            "isPaid": false,
+            "paidDate": null
+          }
+        ],
+        "date": "2025-06-11T04:54",
+        "products": [
+          {
+            "productId": "prod_1749160871877",
+            "quantity": 1,
+            "productName": "2/2",
+            "productPrice": 9999999999,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749194618179_53DE5682-6CCB-4A37-BEC1-517DADC95747.jpeg",
+            "totalPrice": 9999999999
+          }
+        ],
+        "totalAmount": 9999999999,
+        "employeeId": "1749284542602",
+        "employeeName": "hodim",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "999999999",
+              "date": "2025-06-11T04:54"
+            }
+          ],
+          "history": [],
+          "paidAmount": 999999999
+        },
+        "deliveryInfo": {
+          "address": "Manz",
+          "scheduledTime": "2025-06-11T09:55",
+          "actualTime": "2025-06-11T09:55"
+        },
+        "partyDate": "2025-06-11T09:55",
+        "review": "Baho",
+        "status": "Охиргача тўланмаган"
+      }
+    ],
+    "totalSpent": 9999999999,
+    "firstOrderDate": "2025-06-11T04:54",
+    "lastOrderDate": "2025-06-11T04:54"
   }
 ]
