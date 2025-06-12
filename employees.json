@@ -105,5 +105,41 @@
       "lastLogin": null
     },
     "lastLogin": "2025-06-07T09:07:09.307Z"
+  },
+  {
+    "lastName": "Familiya",
+    "firstName": "Ismi",
+    "middleName": "Shar",
+    "phone": "998507900510",
+    "username": "Admin003",
+    "password": "1",
+    "salary": "3000000",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sun",
+        "sat"
+      ],
+      "restDays": [],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "other": "Kompyuterni yaxshi biladi",
+    "name": "Familiya Ismi Shar",
+    "id": "1749723525157",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
