@@ -70,13 +70,5 @@
     "isUsed": true,
     "createdAt": "2025-06-14T10:47:20.172Z",
     "usedAt": "2025-06-14T10:47:20.172Z"
-  },
-  {
-    "id": "code_1749898129052",
-    "value": "11-22",
-    "description": "Kod",
-    "createdAt": "2025-06-14T10:48:49.052Z",
-    "isUsed": false,
-    "usedAt": null
   }
 ]
