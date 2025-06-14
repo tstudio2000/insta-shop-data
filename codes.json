@@ -54,5 +54,13 @@
     "createdAt": "2025-06-14T08:37:37.519Z",
     "isUsed": false,
     "usedAt": null
+  },
+  {
+    "id": "code_1749890329805",
+    "value": "99-64",
+    "description": "А",
+    "createdAt": "2025-06-14T08:38:49.805Z",
+    "isUsed": false,
+    "usedAt": null
   }
 ]
