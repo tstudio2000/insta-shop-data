@@ -46,5 +46,43 @@
         "date": "2025-06-11T04:03"
       }
     ]
+  },
+  {
+    "id": "mail_1749898041538",
+    "code": "15-7999",
+    "nickname": "Pochta",
+    "amount": 100,
+    "address": "Manzil",
+    "partyDate": "2025-06-14T10:44",
+    "partyComment": "Toy malumoti",
+    "checkImages": [
+      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749897911003_Screenshot_20250613-100153.jpg"
+    ],
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-14T15:45",
+      "actualTime": "2025-06-14T15:45"
+    },
+    "age": 150,
+    "products": [
+      {
+        "productId": "prod_1749486802011",
+        "quantity": 1,
+        "productName": "Nout2",
+        "productPrice": 100,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749486800495_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+        "totalPrice": 100
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-14T10:47:21.538Z",
+    "status": "new",
+    "paidAmount": 2000,
+    "payments": [
+      {
+        "amount": 2000,
+        "date": "2025-06-14T10:44"
+      }
+    ]
   }
 ]
