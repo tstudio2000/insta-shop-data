@@ -8,5 +8,15 @@
     "employeeId": "1",
     "employeeName": "admin",
     "createdAt": "2025-06-14T12:29:37.261Z"
+  },
+  {
+    "id": "review_1749904723818",
+    "review": "Otziv",
+    "nickname": "Mijozniki",
+    "source": "client",
+    "imageUrl": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/reviews-images/1749904721350_Screenshot_20250614-161214.jpg",
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-14T12:38:43.818Z"
   }
 ]
