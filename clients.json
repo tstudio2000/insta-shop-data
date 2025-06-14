@@ -337,5 +337,58 @@
     "totalSpent": 10000,
     "firstOrderDate": "2025-06-14T10:34",
     "lastOrderDate": "2025-06-14T10:34"
+  },
+  {
+    "id": "client_1749898212229",
+    "nickname": "Mio",
+    "code": "11-22",
+    "orders": [
+      {
+        "id": "order_1749898212229",
+        "checkImages": [
+          {
+            "id": "check_1749898191340_0.6001528823098901",
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749898189059_IMG_20250609_070926_489.jpg",
+            "isPaid": false,
+            "paidDate": null
+          }
+        ],
+        "date": "2025-06-14T10:48",
+        "products": [
+          {
+            "productId": "prod_1749587395449",
+            "quantity": 1,
+            "productName": "Сувенир",
+            "productPrice": 10000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749587394061_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+            "totalPrice": 10000
+          }
+        ],
+        "totalAmount": 10000,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "25000",
+              "date": "2025-06-14T10:49"
+            }
+          ],
+          "history": [],
+          "paidAmount": 25000
+        },
+        "deliveryInfo": {
+          "address": "Manzil",
+          "scheduledTime": "2025-06-14T15:49",
+          "actualTime": "2025-06-14T15:49"
+        },
+        "partyDate": "2025-06-14T15:49",
+        "partyComment": "Malumot toyo",
+        "review": "Baho",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 10000,
+    "firstOrderDate": "2025-06-14T10:48",
+    "lastOrderDate": "2025-06-14T10:48"
   }
 ]
