@@ -284,5 +284,58 @@
     "totalSpent": 120000,
     "firstOrderDate": "2025-06-14T10:24",
     "lastOrderDate": "2025-06-14T10:24"
+  },
+  {
+    "id": "client_1749897664342",
+    "nickname": "Mik",
+    "code": "1527",
+    "orders": [
+      {
+        "id": "order_1749897664342",
+        "checkImages": [
+          {
+            "id": "check_1749897624343_0.22348272784236312",
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1749897622236_IMG_20250609_070919_009.jpg",
+            "isPaid": false,
+            "paidDate": null
+          }
+        ],
+        "date": "2025-06-14T10:34",
+        "products": [
+          {
+            "productId": "prod_1749587395449",
+            "quantity": 1,
+            "productName": "Сувенир",
+            "productPrice": 10000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749587394061_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+            "totalPrice": 10000
+          }
+        ],
+        "totalAmount": 10000,
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": "20000",
+              "date": "2025-06-14T10:39"
+            }
+          ],
+          "history": [],
+          "paidAmount": 20000
+        },
+        "deliveryInfo": {
+          "address": "Manzil",
+          "scheduledTime": "2025-06-14T15:40",
+          "actualTime": "2025-06-14T15:40"
+        },
+        "partyDate": "2025-06-14T15:40",
+        "partyComment": "Toy kechroq boladi",
+        "review": "Yaxshi",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 10000,
+    "firstOrderDate": "2025-06-14T10:34",
+    "lastOrderDate": "2025-06-14T10:34"
   }
 ]
