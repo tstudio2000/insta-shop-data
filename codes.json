@@ -60,7 +60,7 @@
     "value": "99-64",
     "description": "А",
     "createdAt": "2025-06-14T08:38:49.805Z",
-    "isUsed": false,
-    "usedAt": null
+    "isUsed": true,
+    "usedAt": "2025-06-14T10:27:13.944Z"
   }
 ]
