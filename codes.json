@@ -70,5 +70,13 @@
     "isUsed": true,
     "createdAt": "2025-06-14T10:41:03.605Z",
     "usedAt": "2025-06-14T10:41:03.605Z"
+  },
+  {
+    "id": "code_1749898040211",
+    "value": "15-7999",
+    "description": "Почта для Pochta",
+    "isUsed": true,
+    "createdAt": "2025-06-14T10:47:20.172Z",
+    "usedAt": "2025-06-14T10:47:20.172Z"
   }
 ]
