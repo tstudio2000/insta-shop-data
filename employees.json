@@ -73,7 +73,7 @@
     "lastName": "Hodim",
     "firstName": "Hodim",
     "middleName": "hodim",
-    "phone": "987656789065",
+    "phone": "998656789069",
     "username": "hodim002",
     "password": "1",
     "salary": "90000",
@@ -104,7 +104,9 @@
       "productsSold": 0,
       "lastLogin": null
     },
-    "lastLogin": "2025-06-07T09:07:09.307Z"
+    "lastLogin": "2025-06-07T09:07:09.307Z",
+    "newPassword": "",
+    "other": null
   },
   {
     "lastName": "Familiya",
