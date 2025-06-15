@@ -78,5 +78,13 @@
     "createdAt": "2025-06-14T10:51:23.751Z",
     "isUsed": false,
     "usedAt": null
+  },
+  {
+    "id": "code_1749955704003",
+    "value": "10-90",
+    "description": "Почта для Nicke",
+    "isUsed": true,
+    "createdAt": "2025-06-15T02:48:23.882Z",
+    "usedAt": "2025-06-15T02:48:23.882Z"
   }
 ]
