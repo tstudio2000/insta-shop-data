@@ -1,15 +1,5 @@
 [
   {
-    "id": "review_1749904177261",
-    "review": "10",
-    "nickname": "Mijozs",
-    "source": "client",
-    "imageUrl": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/reviews-images/1749904175892_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
-    "employeeId": "1",
-    "employeeName": "admin",
-    "createdAt": "2025-06-14T12:29:37.261Z"
-  },
-  {
     "id": "review_1749954934058",
     "review": "2",
     "nickname": "a",
