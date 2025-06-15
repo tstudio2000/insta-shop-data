@@ -17,7 +17,7 @@
     "id": "prod_1749234119229",
     "name": "Сувенир:3та айиқчалик",
     "price": 120,
-    "stock": 0,
+    "stock": 31,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1749234116182_IMG_1354.jpeg",
     "isSouvenir": true
   },
