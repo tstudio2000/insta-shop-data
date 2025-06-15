@@ -2,7 +2,7 @@
   {
     "id": "1",
     "username": "admin",
-    "password": "2",
+    "password": "1",
     "name": "Главный Админ",
     "role": "admin",
     "salary": 50000,
