@@ -36,9 +36,9 @@
     "lastName": "familiya",
     "firstName": "ism",
     "middleName": "sharif",
-    "phone": "999999999999",
+    "phone": "998999999999",
     "username": "hodim",
-    "password": "1",
+    "password": "2",
     "salary": "29998",
     "schedule": {
       "workDays": [
@@ -67,7 +67,9 @@
       "productsSold": 0,
       "lastLogin": null
     },
-    "lastLogin": "2025-06-14T12:46:42.160Z"
+    "lastLogin": "2025-06-14T12:46:42.160Z",
+    "newPassword": "2",
+    "other": null
   },
   {
     "lastName": "Hodim",
