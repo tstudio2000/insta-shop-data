@@ -20,7 +20,7 @@
     "value": "45-09",
     "description": "Ddd",
     "createdAt": "2025-06-18T07:21:05.190Z",
-    "isUsed": false,
-    "usedAt": null
+    "isUsed": true,
+    "usedAt": "2025-06-18T07:25:49.698Z"
   }
 ]
