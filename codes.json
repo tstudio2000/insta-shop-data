@@ -22,5 +22,13 @@
     "createdAt": "2025-06-18T07:21:05.190Z",
     "isUsed": true,
     "usedAt": "2025-06-18T07:25:49.698Z"
+  },
+  {
+    "id": "code_1750231799453",
+    "value": "20-09",
+    "description": "Почта для Sevara",
+    "isUsed": true,
+    "createdAt": "2025-06-18T07:29:59.439Z",
+    "usedAt": "2025-06-18T07:29:59.439Z"
   }
 ]
