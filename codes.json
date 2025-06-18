@@ -36,8 +36,8 @@
     "value": "50-89",
     "description": "вапрол\n",
     "createdAt": "2025-06-18T17:29:49.415Z",
-    "isUsed": false,
-    "usedAt": null
+    "isUsed": true,
+    "usedAt": "2025-06-18T17:38:53.952Z"
   },
   {
     "id": "code_1750267800185",
