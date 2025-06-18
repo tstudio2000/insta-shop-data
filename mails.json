@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "id": "mail_1750231550813",
+    "code": "45-09",
+    "nickname": "Ddd",
+    "amount": 300000,
+    "address": "Наманган:Уйчи",
+    "partyDate": "2025-06-18T07:22",
+    "partyComment": "Кузда",
+    "checkImages": [
+      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1750231425136_IMG_2418.png"
+    ],
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-18T14:30",
+      "actualTime": "2025-06-19T09:30"
+    },
+    "age": 20,
+    "products": [
+      {
+        "productId": "prod_1750231160689",
+        "quantity": 1,
+        "productName": "Чистка оппарат",
+        "productPrice": 300000,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg",
+        "totalPrice": 300000
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-18T07:25:50.814Z",
+    "status": "new",
+    "paidAmount": 335000,
+    "payments": [
+      {
+        "amount": 200000,
+        "date": "2025-06-18T07:22"
+      },
+      {
+        "amount": 100000,
+        "date": "2025-06-18T07:22"
+      },
+      {
+        "amount": 35000,
+        "date": "2025-06-18T07:22"
+      }
+    ]
+  }
+]
