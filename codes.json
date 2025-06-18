@@ -12,8 +12,8 @@
     "value": "35-09",
     "description": "Nigor",
     "createdAt": "2025-06-18T07:20:11.170Z",
-    "isUsed": false,
-    "usedAt": null
+    "isUsed": true,
+    "usedAt": "2025-06-18T07:27:48.808Z"
   },
   {
     "id": "code_1750231265190",
