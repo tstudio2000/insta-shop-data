@@ -8,7 +8,12 @@
     "partyDate": "2025-06-18T07:22",
     "partyComment": "Кузда",
     "checkImages": [
-      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1750231425136_IMG_2418.png"
+      {
+        "id": "check_1750268900281_0.41808413781841913",
+        "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1750231425136_IMG_2418.png",
+        "isPaid": true,
+        "paidDate": "2025-06-18T17:48:28.525Z"
+      }
     ],
     "deliveryInfo": {
       "scheduledTime": "2025-06-18T14:30",
