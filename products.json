@@ -6,5 +6,13 @@
     "stock": 1,
     "isSouvenir": true,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg"
+  },
+  {
+    "id": "prod_1750231163350",
+    "name": "Чистка оппарат",
+    "price": 300000,
+    "stock": 1,
+    "isSouvenir": true,
+    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231161348_IMG_2405.jpeg"
   }
 ]
