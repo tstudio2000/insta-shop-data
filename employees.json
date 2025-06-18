@@ -220,5 +220,42 @@
       "lastLogin": null
     },
     "newPassword": ""
+  },
+  {
+    "lastName": "Эгамбердиева",
+    "firstName": "Солиха",
+    "middleName": "Сардорлвна",
+    "phone": "998940000000",
+    "username": "Admin3",
+    "password": "1",
+    "salary": "3000000",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat"
+      ],
+      "restDays": [
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "other": null,
+    "name": "Эгамбердиева Солиха Сардорлвна",
+    "id": "1750230917703",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
