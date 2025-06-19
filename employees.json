@@ -187,5 +187,45 @@
       "productsSold": 0,
       "lastLogin": null
     }
+  },
+  {
+    "lastName": "F",
+    "firstName": "I",
+    "middleName": "A",
+    "phones": [
+      "111111000000",
+      "998124361242"
+    ],
+    "username": "hodim12",
+    "password": "1",
+    "salary": 30000,
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "restDays": [
+        "sat",
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "other": "sdasdada",
+    "name": "F I A",
+    "id": "1750324607085",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    }
   }
 ]
