@@ -68,8 +68,13 @@
       "lastLogin": null
     },
     "lastLogin": "2025-06-15T10:14:00.110Z",
-    "newPassword": "1",
-    "other": null
+    "newPassword": "",
+    "other": null,
+    "phones": [
+      "998999999999",
+      "998999942141",
+      "998215215522"
+    ]
   },
   {
     "lastName": "a",
