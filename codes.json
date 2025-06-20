@@ -30,5 +30,13 @@
     "isUsed": true,
     "createdAt": "2025-06-20T11:21:50.093Z",
     "usedAt": "2025-06-20T11:21:50.093Z"
+  },
+  {
+    "id": "code_1750423167851",
+    "value": "209-492",
+    "description": "PochNic учун Почта",
+    "isUsed": true,
+    "createdAt": "2025-06-20T12:39:27.811Z",
+    "usedAt": "2025-06-20T12:39:27.811Z"
   }
 ]
