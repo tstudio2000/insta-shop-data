@@ -74,5 +74,47 @@
         "date": "2025-06-20T09:42"
       }
     ]
+  },
+  {
+    "id": "mail_1750423168895",
+    "code": "209-492",
+    "nickname": "PochNic",
+    "amount": 300000,
+    "address": "Манзил",
+    "partyDate": "2025-06-20T12:38",
+    "partyComment": "Малумот",
+    "checkImages": [],
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-20T17:39",
+      "actualTime": "2025-06-20T17:39"
+    },
+    "age": 29,
+    "products": [
+      {
+        "productId": "prod_1750231160689",
+        "quantity": 1,
+        "productName": "Чистка оппарат",
+        "productPrice": 300000,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg",
+        "totalPrice": 300000
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-20T12:39:28.895Z",
+    "status": "new",
+    "paidAmount": 185000,
+    "payments": [
+      {
+        "amount": 150000,
+        "date": "2025-06-20T12:38",
+        "comment": "Махсулот"
+      },
+      {
+        "amount": 35000,
+        "date": "2025-06-20T12:38",
+        "comment": "Почта"
+      }
+    ]
   }
 ]
