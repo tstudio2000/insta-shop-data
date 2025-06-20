@@ -85,10 +85,15 @@
               "amount": 250000,
               "date": "2025-06-20T11:20",
               "comment": "Махсулотга"
+            },
+            {
+              "amount": 50000,
+              "date": "2025-06-20T11:20",
+              "comment": "Изох"
             }
           ],
           "history": [],
-          "paidAmount": 250000
+          "paidAmount": 300000
         },
         "deliveryInfo": {
           "address": "Манзил",
@@ -98,7 +103,7 @@
         "partyDate": "2025-06-20T16:21",
         "partyComment": "Малумот той",
         "review": "Бахо",
-        "status": "Охиргача тўланмаган"
+        "status": "Тўллиқ тўланган"
       }
     ],
     "totalSpent": 300000,
