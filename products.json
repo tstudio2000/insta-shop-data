@@ -3,7 +3,7 @@
     "id": "prod_1750231160689",
     "name": "Чистка оппарат",
     "price": 300000,
-    "stock": 9,
+    "stock": 8,
     "isSouvenir": true,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg"
   }
