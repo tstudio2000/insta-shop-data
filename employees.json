@@ -30,7 +30,17 @@
       "productsSold": 56,
       "lastLogin": "2024-03-15T14:30:00Z"
     },
-    "lastLogin": "2025-06-18T18:10:38.195Z"
+    "lastLogin": "2025-06-20T16:30:18.788Z",
+    "attendance": [
+      {
+        "date": "2025-06-20",
+        "status": "work"
+      },
+      {
+        "date": "2025-06-19",
+        "status": "absent"
+      }
+    ]
   },
   {
     "lastName": "familiya",
