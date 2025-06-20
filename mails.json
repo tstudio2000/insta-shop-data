@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "mail_1750411333586",
+    "code": "90-03",
+    "nickname": "PochtaNick",
+    "amount": 300000,
+    "address": "Manzil",
+    "partyDate": "2025-06-20T09:21",
+    "partyComment": "Toy malumotlari",
+    "checkImages": [
+      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1750411306875_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
+    ],
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-20T14:21",
+      "actualTime": "2025-06-21T14:22"
+    },
+    "age": 102,
+    "products": [
+      {
+        "productId": "prod_1750231160689",
+        "quantity": 1,
+        "productName": "Чистка оппарат",
+        "productPrice": 300000,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg",
+        "totalPrice": 300000
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-20T09:22:13.586Z",
+    "status": "new",
+    "paidAmount": 300000,
+    "payments": [
+      {
+        "amount": 300000,
+        "date": "2025-06-20T09:21"
+      }
+    ]
+  }
+]
