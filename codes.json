@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "code_1750411332412",
+    "value": "90-03",
+    "description": "Почта для PochtaNick",
+    "isUsed": true,
+    "createdAt": "2025-06-20T09:22:12.378Z",
+    "usedAt": "2025-06-20T09:22:12.378Z"
+  }
+]
