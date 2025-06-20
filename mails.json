@@ -102,8 +102,8 @@
     "employeeId": "1",
     "employeeName": "admin",
     "createdAt": "2025-06-20T12:39:28.895Z",
-    "status": "new",
-    "paidAmount": 185000,
+    "status": "completed",
+    "paidAmount": 385000,
     "payments": [
       {
         "amount": 150000,
@@ -114,6 +114,11 @@
         "amount": 35000,
         "date": "2025-06-20T12:38",
         "comment": "Почта"
+      },
+      {
+        "amount": 200000,
+        "date": "2025-06-20T12:39",
+        "comment": "Махсулот"
       }
     ]
   }
