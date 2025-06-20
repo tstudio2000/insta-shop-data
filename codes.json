@@ -46,5 +46,13 @@
     "createdAt": "2025-06-18T17:30:00.185Z",
     "isUsed": false,
     "usedAt": null
+  },
+  {
+    "id": "code_1750408072686",
+    "value": "10-90",
+    "description": "Мижоз учун яратилган код Mijoz1",
+    "isUsed": true,
+    "createdAt": "2025-06-20T08:27:52.653Z",
+    "usedAt": "2025-06-20T08:27:52.653Z"
   }
 ]
