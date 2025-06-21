@@ -121,5 +121,44 @@
         "comment": "Махсулот"
       }
     ]
+  },
+  {
+    "id": "mail_1750510658647",
+    "code": "40-709",
+    "nickname": "Nico",
+    "amount": 300000,
+    "address": "Manzil1",
+    "partyDate": "2025-06-21T17:57",
+    "partyComment": "Malumotl",
+    "checkImages": [
+      "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1750510629836_IMG_17459057865547328.jpg"
+    ],
+    "deliveryInfo": {
+      "scheduledTime": "2025-06-21T17:57",
+      "actualTime": "2025-06-21T17:57"
+    },
+    "age": 60,
+    "products": [
+      {
+        "productId": "prod_1750231160689",
+        "quantity": 1,
+        "productName": "Чистка оппарат",
+        "productPrice": 300000,
+        "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg",
+        "totalPrice": 300000
+      }
+    ],
+    "employeeId": "1",
+    "employeeName": "admin",
+    "createdAt": "2025-06-21T12:57:38.647Z",
+    "status": "new",
+    "paidAmount": 3000000,
+    "payments": [
+      {
+        "amount": 3000000,
+        "date": "2025-06-21T12:55",
+        "comment": "Mahsulot"
+      }
+    ]
   }
 ]
