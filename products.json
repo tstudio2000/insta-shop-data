@@ -6,13 +6,5 @@
     "stock": 4,
     "isSouvenir": true,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg"
-  },
-  {
-    "id": "prod_1750513117907",
-    "name": "242",
-    "price": 99991244256789,
-    "stock": 124,
-    "isSouvenir": false,
-    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750513116246_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
   }
 ]
