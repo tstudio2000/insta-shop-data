@@ -6,13 +6,5 @@
     "stock": 4,
     "isSouvenir": true,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg"
-  },
-  {
-    "id": "prod_1750512284771",
-    "name": "тест",
-    "price": 24,
-    "stock": 25,
-    "isSouvenir": false,
-    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750512283568_2в2.JPG"
   }
 ]
