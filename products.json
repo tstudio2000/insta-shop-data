@@ -6,13 +6,5 @@
     "stock": 4,
     "isSouvenir": true,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg"
-  },
-  {
-    "id": "prod_1750513186814",
-    "name": "adsada",
-    "price": 124,
-    "stock": 2,
-    "isSouvenir": false,
-    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750513185518_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg"
   }
 ]
