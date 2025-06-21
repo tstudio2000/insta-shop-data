@@ -6,13 +6,5 @@
     "stock": 4,
     "isSouvenir": true,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750231158142_IMG_2405.jpeg"
-  },
-  {
-    "id": "prod_1750512863461",
-    "name": "sdfdsf3",
-    "price": 21442,
-    "stock": 51,
-    "isSouvenir": false,
-    "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750512862300_0.JPG"
   }
 ]
