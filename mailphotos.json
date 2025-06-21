@@ -14,5 +14,13 @@
     "createdAt": "2025-06-20T19:00:00.000Z",
     "status": "sent",
     "sentAt": "2025-06-21T09:32:12.230Z"
+  },
+  {
+    "id": "photo_1750512441607",
+    "mailId": "2492141204",
+    "imageUrl": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/mail-photos/1750512440091_1.PNG",
+    "createdAt": "2025-06-21T19:00:00.000Z",
+    "status": "new",
+    "sentAt": null
   }
 ]
