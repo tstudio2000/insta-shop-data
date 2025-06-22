@@ -14,5 +14,13 @@
     "isUsed": true,
     "createdAt": "2025-06-22T17:32:15.709Z",
     "usedAt": "2025-06-22T17:32:15.709Z"
+  },
+  {
+    "id": "code_1750613575123",
+    "value": "20-990",
+    "description": "Ник",
+    "createdAt": "2025-06-22T17:32:55.123Z",
+    "isUsed": false,
+    "usedAt": null
   }
 ]
