@@ -30,8 +30,12 @@
       "productsSold": 56,
       "lastLogin": "2024-03-15T14:30:00Z"
     },
-    "lastLogin": "2025-06-21T13:10:17.592Z",
+    "lastLogin": "2025-06-22T15:49:11.999Z",
     "attendance": [
+      {
+        "date": "2025-06-22",
+        "status": "work"
+      },
       {
         "date": "2025-06-21",
         "status": "work"
