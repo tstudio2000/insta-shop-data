@@ -85,7 +85,7 @@
       "productsSold": 0,
       "lastLogin": null
     },
-    "lastLogin": "2025-06-21T13:09:48.213Z",
+    "lastLogin": "2025-06-22T16:08:36.365Z",
     "newPassword": "",
     "other": null,
     "phones": [
@@ -94,6 +94,10 @@
       "998215215522"
     ],
     "attendance": [
+      {
+        "date": "2025-06-22",
+        "status": "work"
+      },
       {
         "date": "2025-06-21",
         "status": "work"
