@@ -1,203 +1,47 @@
 [
   {
-    "id": "1",
+    "lastName": "A",
+    "firstName": "A",
+    "middleName": "A",
+    "phone": "00000000000",
     "username": "admin",
     "password": "1",
-    "name": "Главный Админ",
+    "salary": "9",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat"
+      ],
+      "restDays": [
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "other": null,
+    "name": "Admin",
+    "id": "1210635119773",
     "role": "admin",
-    "salary": 50000,
-    "schedule": {
-      "workDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri"
-      ],
-      "restDays": [
-        "sat",
-        "sun"
-      ],
-      "dailyHours": {
-        "start": "09:00",
-        "end": "18:00",
-        "breakStart": "13:00",
-        "breakEnd": "14:00"
-      }
-    },
     "stats": {
-      "clientsServed": 24,
-      "productsSold": 56,
-      "lastLogin": "2024-03-15T14:30:00Z"
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
     },
-    "lastLogin": "2025-06-22T16:13:43.942Z",
+    "lastLogin": "2025-06-22T16:12:40.043Z",
     "attendance": [
       {
         "date": "2025-06-22",
         "status": "work"
-      },
-      {
-        "date": "2025-06-21",
-        "status": "work"
-      },
-      {
-        "date": "2025-06-20",
-        "status": "work"
-      },
-      {
-        "date": "2025-06-19",
-        "status": "absent"
       }
     ]
-  },
-  {
-    "lastName": "familiya",
-    "firstName": "ism",
-    "middleName": "sharif",
-    "phone": "998999999999",
-    "username": "hodim",
-    "password": "1",
-    "salary": "29998",
-    "schedule": {
-      "workDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri"
-      ],
-      "restDays": [
-        "sat",
-        "sun"
-      ],
-      "dailyHours": {
-        "start": "09:00",
-        "end": "18:00",
-        "breakStart": "13:00",
-        "breakEnd": "14:00"
-      }
-    },
-    "name": "familiya ism sharif",
-    "id": "1749284542602",
-    "role": "employee",
-    "stats": {
-      "clientsServed": 0,
-      "productsSold": 0,
-      "lastLogin": null
-    },
-    "lastLogin": "2025-06-22T16:08:36.365Z",
-    "newPassword": "",
-    "other": null,
-    "phones": [
-      "998999999999",
-      "998999942141",
-      "998215215522"
-    ],
-    "attendance": [
-      {
-        "date": "2025-06-22",
-        "status": "work"
-      },
-      {
-        "date": "2025-06-21",
-        "status": "work"
-      },
-      {
-        "date": "2025-06-20",
-        "status": "work"
-      },
-      {
-        "date": "2025-06-19",
-        "status": "absent"
-      },
-      {
-        "date": "2025-06-18",
-        "status": "absent"
-      },
-      {
-        "date": "2025-06-17",
-        "status": "absent"
-      },
-      {
-        "date": "2025-06-16",
-        "status": "absent"
-      }
-    ]
-  },
-  {
-    "lastName": "a",
-    "firstName": "a",
-    "middleName": "a1",
-    "phone": "111111111111",
-    "username": "hodim089",
-    "password": "1",
-    "salary": 30000,
-    "schedule": {
-      "workDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri"
-      ],
-      "restDays": [
-        "sat",
-        "sun"
-      ],
-      "dailyHours": {
-        "start": "09:00",
-        "end": "18:00",
-        "breakStart": "13:00",
-        "breakEnd": "14:00"
-      }
-    },
-    "other": null,
-    "name": "a a a1",
-    "id": "1749888955567",
-    "role": "employee",
-    "stats": {
-      "clientsServed": 0,
-      "productsSold": 0,
-      "lastLogin": null
-    }
-  },
-  {
-    "lastName": "test",
-    "firstName": "test",
-    "middleName": "test",
-    "phone": "998999999999",
-    "username": "test",
-    "password": "1",
-    "salary": 30000,
-    "schedule": {
-      "workDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri"
-      ],
-      "restDays": [
-        "sat",
-        "sun"
-      ],
-      "dailyHours": {
-        "start": "09:00",
-        "end": "18:00",
-        "breakStart": "13:00",
-        "breakEnd": "14:00"
-      }
-    },
-    "other": "test",
-    "name": "test test test",
-    "id": "1749907557565",
-    "role": "employee",
-    "stats": {
-      "clientsServed": 0,
-      "productsSold": 0,
-      "lastLogin": null
-    },
-    "newPassword": ""
   },
   {
     "lastName": "Эгамбердиева",
@@ -229,6 +73,50 @@
     "other": null,
     "name": "Эгамбердиева Солиха Сардорлвна",
     "id": "1750230917703",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    },
+    "lastLogin": "2025-06-22T16:12:40.043Z",
+    "attendance": [
+      {
+        "date": "2025-06-22",
+        "status": "work"
+      }
+    ]
+  },
+  {
+    "lastName": "Ism",
+    "firstName": "Familiya",
+    "middleName": "Sharif",
+    "phone": "998999999999",
+    "username": "hodim",
+    "password": "1",
+    "salary": "3000000",
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat"
+      ],
+      "restDays": [
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "other": null,
+    "name": "Ism Familiya Sharif",
+    "id": "1247412589521",
     "role": "employee",
     "stats": {
       "clientsServed": 0,
