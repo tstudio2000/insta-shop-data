@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "client_1750613428730",
+    "nickname": "Mijoz10",
+    "code": "90-80",
+    "orders": [
+      {
+        "id": "order_1750613428730",
+        "checkImages": [
+          {
+            "id": "check_1750613374772_0.5762824296273825",
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1750613373555_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
+            "isPaid": true,
+            "paidDate": null
+          }
+        ],
+        "date": "2025-06-22T17:28",
+        "products": [
+          {
+            "productId": "prod_1750231160689",
+            "quantity": "1",
+            "productName": "Чистка оппарат",
+            "productPrice": 300000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750513374620_1750231158142_IMG_2405.jpeg",
+            "totalPrice": 300000
+          }
+        ],
+        "totalAmount": 300000,
+        "employeeId": "1210635119773",
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": 300000,
+              "date": "2025-06-22T17:28",
+              "comment": "Махсулот"
+            },
+            {
+              "amount": 350000,
+              "date": "2025-06-22T17:29",
+              "comment": "Почта"
+            }
+          ],
+          "history": [],
+          "paidAmount": 650000
+        },
+        "deliveryInfo": {
+          "address": "Ташкент, Чиланзар 29А",
+          "scheduledTime": "2025-06-22T22:29",
+          "actualTime": "2025-06-23T22:29"
+        },
+        "partyDate": "2025-06-23T22:29",
+        "partyComment": "Бахор",
+        "review": "Келди",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 300000,
+    "firstOrderDate": "2025-06-22T17:28",
+    "lastOrderDate": "2025-06-22T17:28"
+  }
+]
