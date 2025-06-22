@@ -93,5 +93,53 @@
     "totalSpent": 300000,
     "firstOrderDate": "2025-06-22T16:27",
     "lastOrderDate": "2025-06-22T16:27"
+  },
+  {
+    "id": "client_1750612547592",
+    "nickname": "pasopdoap",
+    "code": "09213-12",
+    "orders": [
+      {
+        "id": "order_1750612547592",
+        "checkImages": [],
+        "date": "2025-06-22T17:15",
+        "products": [
+          {
+            "productId": "prod_1750231160689",
+            "quantity": "1",
+            "productName": "Чистка оппарат",
+            "productPrice": 300000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750513374620_1750231158142_IMG_2405.jpeg",
+            "totalPrice": 300000
+          }
+        ],
+        "totalAmount": 300000,
+        "employeeId": "1210635119773",
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": 242552141,
+              "date": "2025-06-22T17:15",
+              "comment": ""
+            }
+          ],
+          "history": [],
+          "paidAmount": 242552141
+        },
+        "deliveryInfo": {
+          "address": "",
+          "scheduledTime": "",
+          "actualTime": ""
+        },
+        "partyDate": "",
+        "partyComment": "",
+        "review": "",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 300000,
+    "firstOrderDate": "2025-06-22T17:15",
+    "lastOrderDate": "2025-06-22T17:15"
   }
 ]
