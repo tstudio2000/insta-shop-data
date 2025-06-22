@@ -58,14 +58,7 @@
     "orders": [
       {
         "id": "order_1750418510855",
-        "checkImages": [
-          {
-            "id": "check_1750418469484_0.47996420214887603",
-            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1750418467805_8cbeb61ff6a664081bd2313a85ea51792465161cd923ab4e42094a4dfa3a4104_0f7y8l_640l.jpg",
-            "isPaid": true,
-            "paidDate": null
-          }
-        ],
+        "checkImages": [],
         "date": "2025-06-20T11:17",
         "products": [
           {
