@@ -58,5 +58,65 @@
     "totalSpent": 300000,
     "firstOrderDate": "2025-06-22T17:28",
     "lastOrderDate": "2025-06-22T17:28"
+  },
+  {
+    "id": "client_1750966047000",
+    "nickname": "Asal9",
+    "code": "103-09",
+    "orders": [
+      {
+        "id": "order_1750966047000",
+        "checkImages": [
+          {
+            "id": "check_1750965963542_0.6757530725039159",
+            "url": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/checks/1750965956050_IMG_2805.png",
+            "isPaid": true,
+            "paidDate": null
+          }
+        ],
+        "date": "2025-06-26T19:24",
+        "products": [
+          {
+            "productId": "prod_1750965823629",
+            "quantity": "1",
+            "productName": "2/2",
+            "productPrice": 1310000,
+            "productImage": "",
+            "totalPrice": 1310000
+          }
+        ],
+        "totalAmount": 1310000,
+        "employeeId": "1210635119773",
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": 665000,
+              "date": "2025-06-26T19:24",
+              "comment": "50% тўлов"
+            },
+            {
+              "amount": 35000,
+              "date": "2025-06-26T19:25",
+              "comment": "Почта пули"
+            }
+          ],
+          "history": [],
+          "paidAmount": 700000
+        },
+        "deliveryInfo": {
+          "address": "Самарқанд",
+          "scheduledTime": "2025-06-28T00:26",
+          "actualTime": "2025-06-30T00:26"
+        },
+        "partyDate": "2025-06-27T00:26",
+        "partyComment": "Йоўда",
+        "review": "🟢",
+        "status": "Охиргача тўланмаган"
+      }
+    ],
+    "totalSpent": 1310000,
+    "firstOrderDate": "2025-06-26T19:24",
+    "lastOrderDate": "2025-06-26T19:24"
   }
 ]
