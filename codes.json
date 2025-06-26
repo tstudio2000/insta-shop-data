@@ -22,5 +22,13 @@
     "createdAt": "2025-06-22T17:32:55.123Z",
     "isUsed": false,
     "usedAt": null
+  },
+  {
+    "id": "code_1750966046328",
+    "value": "103-09",
+    "description": "Мижоз учун яратилган код Asal9",
+    "isUsed": true,
+    "createdAt": "2025-06-26T19:27:26.314Z",
+    "usedAt": "2025-06-26T19:27:26.314Z"
   }
 ]
