@@ -118,5 +118,61 @@
     "totalSpent": 1310000,
     "firstOrderDate": "2025-06-26T19:24",
     "lastOrderDate": "2025-06-26T19:24"
+  },
+  {
+    "id": "client_1751017522531",
+    "nickname": "2eqw",
+    "code": "1241",
+    "orders": [
+      {
+        "id": "order_1751017522531",
+        "checkImages": [],
+        "date": "2025-06-27T09:43",
+        "products": [
+          {
+            "productId": "prod_1750965823629",
+            "quantity": "1",
+            "productName": "2/2",
+            "productPrice": 1310000,
+            "productImage": "",
+            "totalPrice": 1310000
+          },
+          {
+            "productId": "prod_1750231160689",
+            "quantity": "1",
+            "productName": "Чистка аппарат",
+            "productPrice": 300000,
+            "productImage": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750513374620_1750231158142_IMG_2405.jpeg",
+            "totalPrice": 300000
+          }
+        ],
+        "totalAmount": 1610000,
+        "employeeId": "1210635119773",
+        "employeeName": "admin",
+        "paymentInfo": {
+          "prepayments": [
+            {
+              "amount": 1627898,
+              "date": "2025-06-27T09:44",
+              "comment": "sad"
+            }
+          ],
+          "history": [],
+          "paidAmount": 1627898
+        },
+        "deliveryInfo": {
+          "address": "",
+          "scheduledTime": "",
+          "actualTime": ""
+        },
+        "partyDate": "",
+        "partyComment": "",
+        "review": "",
+        "status": "Тўллиқ тўланган"
+      }
+    ],
+    "totalSpent": 1610000,
+    "firstOrderDate": "2025-06-27T09:43",
+    "lastOrderDate": "2025-06-27T09:43"
   }
 ]
