@@ -35,8 +35,12 @@
       "productsSold": 0,
       "lastLogin": null
     },
-    "lastLogin": "2025-06-26T19:13:47.920Z",
+    "lastLogin": "2025-06-27T10:20:05.077Z",
     "attendance": [
+      {
+        "date": "2025-06-27",
+        "status": "work"
+      },
       {
         "date": "2025-06-26",
         "status": "work"
