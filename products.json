@@ -3,7 +3,7 @@
     "id": "prod_1750231160689",
     "name": "Чистка аппарат",
     "price": 300000,
-    "stock": 94,
+    "stock": 93,
     "isSouvenir": true,
     "image": "https://raw.githubusercontent.com/tstudio2000/insta-shop-data/main/product-images/1750513374620_1750231158142_IMG_2405.jpeg"
   },
@@ -11,7 +11,7 @@
     "id": "prod_1750965823629",
     "name": "2/2",
     "price": 1310000,
-    "stock": 99,
+    "stock": 98,
     "isSouvenir": false,
     "image": ""
   }
