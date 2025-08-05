@@ -306,5 +306,45 @@
         "status": "work"
       }
     ]
+  },
+  {
+    "lastName": "sadasdsa",
+    "firstName": "asdasda",
+    "middleName": "asdasda",
+    "phones": [
+      "124124124121"
+    ],
+    "username": "a",
+    "password": "12",
+    "salary": 30000,
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "restDays": [
+        "sat",
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "other": "adasdasdasd",
+    "name": "sadasdsa asdasda asdasda",
+    "id": "1754418948886",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    },
+    "attendance": []
   }
 ]
