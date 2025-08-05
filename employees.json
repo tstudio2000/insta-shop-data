@@ -35,8 +35,164 @@
       "productsSold": 0,
       "lastLogin": null
     },
-    "lastLogin": "2025-06-27T10:20:05.077Z",
+    "lastLogin": "2025-08-05T18:16:02.852Z",
     "attendance": [
+      {
+        "date": "2025-08-05",
+        "status": "work"
+      },
+      {
+        "date": "2025-08-04",
+        "status": "absent"
+      },
+      {
+        "date": "2025-08-03",
+        "status": "rest"
+      },
+      {
+        "date": "2025-08-02",
+        "status": "absent"
+      },
+      {
+        "date": "2025-08-01",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-31",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-30",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-29",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-28",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-27",
+        "status": "rest"
+      },
+      {
+        "date": "2025-07-26",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-25",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-24",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-23",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-22",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-21",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-20",
+        "status": "rest"
+      },
+      {
+        "date": "2025-07-19",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-18",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-17",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-16",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-15",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-14",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-13",
+        "status": "rest"
+      },
+      {
+        "date": "2025-07-12",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-11",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-10",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-09",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-08",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-07",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-06",
+        "status": "rest"
+      },
+      {
+        "date": "2025-07-05",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-04",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-03",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-02",
+        "status": "absent"
+      },
+      {
+        "date": "2025-07-01",
+        "status": "absent"
+      },
+      {
+        "date": "2025-06-30",
+        "status": "absent"
+      },
+      {
+        "date": "2025-06-29",
+        "status": "rest"
+      },
+      {
+        "date": "2025-06-28",
+        "status": "absent"
+      },
       {
         "date": "2025-06-27",
         "status": "work"
