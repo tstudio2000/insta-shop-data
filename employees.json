@@ -386,5 +386,45 @@
       "lastLogin": null
     },
     "attendance": []
+  },
+  {
+    "lastName": "Adasdaasd",
+    "firstName": "asdasdasdsa",
+    "middleName": "",
+    "phones": [
+      "446896796796"
+    ],
+    "username": "asdad",
+    "password": "asdsad",
+    "salary": 30000,
+    "schedule": {
+      "workDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "restDays": [
+        "sat",
+        "sun"
+      ],
+      "dailyHours": {
+        "start": "09:00",
+        "end": "18:00",
+        "breakStart": "13:00",
+        "breakEnd": "14:00"
+      }
+    },
+    "other": null,
+    "name": "Adasdaasd asdasdasdsa",
+    "id": "1754452298459",
+    "role": "employee",
+    "stats": {
+      "clientsServed": 0,
+      "productsSold": 0,
+      "lastLogin": null
+    },
+    "attendance": []
   }
 ]
